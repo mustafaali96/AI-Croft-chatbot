@@ -1,0 +1,49 @@
+{
+  "description": "AI Croft is your personal assistant that is capable of intelligent behavior it helps you to change your mood by telling jokes \u0026 quotes. This agent also search people on google, wikipedia, facebook and songs on youtube.",
+  "language": "en",
+  "shortDescription": "Weather and forecast related conversations",
+  "examples": "User: What\u0027s the weather in New York this morning?\nUser: What about Princeton tomorrow?\n\nUser: Is it going to rain this Friday?\nUser: How about Saturday?\nUser: Can you check Seattle?\n\nUser: Should I wear my coat?\nUser: Is the weather good enough to play frisbee outside?\n\nUser: Is hiking a good idea right now?\nUser: How about this weekend?\n\nUser: Do you know if it\u0027s cold outside now?\nUser: Is it going to rain later in the evening?\n\nUser: Will I need an umbrella next Friday in Paris?",
+  "linkToDocs": "",
+  "activeAssistantAgents": [
+    "smalltalk-domain-on",
+    "smalltalk-fulfillment-on"
+  ],
+  "disableInteractionLogs": false,
+  "googleAssistant": {
+    "googleAssistantCompatible": true,
+    "project": "weather-85e24",
+    "welcomeIntentSignInRequired": false,
+    "startIntents": [
+      {
+        "intentId": "21d2d6a3-f97e-448a-a3eb-5ebae8991a86",
+        "signInRequired": false
+      }
+    ],
+    "systemIntents": [],
+    "endIntentIds": [
+      "0475c4d2-7e67-48ce-b465-2295b8bfbf0b",
+      "19029ac7-95e6-4bf9-8ef3-cd42c976aa95"
+    ],
+    "oAuthLinking": {
+      "required": false,
+      "grantType": "AUTH_CODE_GRANT"
+    },
+    "voiceType": "MALE_1",
+    "capabilities": [],
+    "protocolVersion": "V2",
+    "autoPreviewEnabled": true
+  },
+  "defaultTimezone": "America/New_York",
+  "webhook": {
+    "url": "https://us-central1-mustafoo-ccd0d.cloudfunctions.net/dialogflowFirebaseFulfillment",
+    "available": true,
+    "useForDomains": false,
+    "cloudFunctionsEnabled": true,
+    "cloudFunctionsInitialized": true
+  },
+  "isPrivate": true,
+  "customClassifierMode": "use.instead",
+  "mlMinConfidence": 0.5,
+  "supportedLanguages": [],
+  "enableOnePlatformApi": true
+}

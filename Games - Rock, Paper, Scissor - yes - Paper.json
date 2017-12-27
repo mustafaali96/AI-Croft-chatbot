@@ -1,0 +1,109 @@
+{
+  "id": "6267c153-b90b-4345-8644-ed4409485ae1",
+  "parentId": "70ea34a1-3b78-4851-bc21-770543a72dec",
+  "rootParentId": "5d4545b2-8a7d-47e1-b15a-2b43a02da476",
+  "name": "Games - Rock, Paper, Scissor - yes - Paper",
+  "auto": true,
+  "contexts": [
+    "Games-RockPaperScissor-yes-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "Games.Games-custom.Games-RockPaperScissor-yes.Games-RockPaperScissor-yes-custom",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 2,
+          "platform": "facebook",
+          "lang": "en",
+          "title": "Enjoying ?",
+          "replies": [
+            "Let\u0027s play again",
+            "I\u0027m tired"
+          ]
+        },
+        {
+          "type": "simple_response",
+          "platform": "google",
+          "lang": "en",
+          "customizeAudio": true,
+          "items": [
+            {
+              "textToSpeech": "Scissor, Yahoo! i win",
+              "displayText": "✂, Yahoo! i win ☺"
+            },
+            {
+              "textToSpeech": "Rock, You win",
+              "displayText": "⛰️, You win 😭"
+            },
+            {
+              "textToSpeech": "Scissor. Hurray! I win. You can\u0027t beat me hahaha",
+              "displayText": "✂, Hurray! I win. You can\u0027t beat me 😝"
+            },
+            {
+              "textToSpeech": "Rock. You win... But how. did you cheated ahan",
+              "displayText": "⛰️, You win... But how 🤨 did you cheated ? 😠"
+            },
+            {
+              "textToSpeech": "Scissor. YESS i win. Frankly kido go learn first haha",
+              "displayText": "✂, YESS! I win. Frankly kiddo go learn first 😄"
+            },
+            {
+              "textToSpeech": "Scissor.  I WIN..!!! Ahan I\u0027m the best",
+              "displayText": "✂, I WIN..!!! Ahan I\u0027m the best 😎"
+            }
+          ]
+        },
+        {
+          "type": "simple_response",
+          "platform": "google",
+          "lang": "en",
+          "customizeAudio": true,
+          "textToSpeech": "Enjoying",
+          "displayText": "Enjoying ?"
+        },
+        {
+          "type": "suggestion_chips",
+          "platform": "google",
+          "lang": "en",
+          "suggestions": [
+            {
+              "title": "Yes! Let\u0027s play again"
+            },
+            {
+              "title": "I\u0027m tired"
+            }
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": [
+            "✂, Yahoo! i win ☺",
+            "⛰️, You win 😭",
+            "✂, Hurray! I win. You can\u0027t beat me 😝",
+            "⛰️, You win... But how 🤨 did you cheated ? 😠",
+            "✂, YESS! I win. Frankly kiddo go learn first 😄",
+            "✂, I WIN..!!! Ahan I\u0027m the best 😎"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "facebook": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "cortanaCommand": {
+    "navigateOrService": "NAVIGATE",
+    "target": ""
+  },
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1508189124811,
+  "fallbackIntent": false,
+  "events": []
+}

@@ -1,0 +1,49 @@
+[
+  {
+    "id": "06593d6b-0b40-462a-bed4-4df0c85c21b0",
+    "data": [
+      {
+        "text": "Rock ⛰️",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 1514054149
+  },
+  {
+    "id": "c2370988-daeb-401e-be97-53f59a3e3fbf",
+    "data": [
+      {
+        "text": "rock",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "19bbbd93-8add-4374-b8cf-2e24fa45a5dc",
+    "data": [
+      {
+        "text": "Rock",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 3,
+    "updated": 1514054149
+  },
+  {
+    "id": "7a254b6d-db9c-48d7-b7a4-c7d8598dbcc0",
+    "data": [
+      {
+        "text": "⛰️",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1514054149
+  }
+]

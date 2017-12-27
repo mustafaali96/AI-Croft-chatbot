@@ -1,0 +1,38 @@
+{
+  "id": "c50856a2-e51c-4ba8-931d-172b9acf3385",
+  "parentId": "e2d709ae-a09b-44d3-b001-4eb277bf61a1",
+  "rootParentId": "5d4545b2-8a7d-47e1-b15a-2b43a02da476",
+  "name": "IQ game - IQ Questions - no - I\u0027m afraid",
+  "auto": true,
+  "contexts": [
+    "IQgame-IQQuestions-no-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "IQgame.IQgame-custom.IQgame-IQQuestions-no.IQgame-IQQuestions-no-custom",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": [
+            "Come back when you\u0027re ready.",
+            "Maybe you won\u0027t be afraid next time 😉"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "facebook": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1508189124811,
+  "fallbackIntent": false,
+  "events": []
+}

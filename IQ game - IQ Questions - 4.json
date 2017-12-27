@@ -1,0 +1,61 @@
+{
+  "id": "da1aa846-38f4-40c6-912f-fdf8c627ab05",
+  "parentId": "cd108fb1-a264-401b-a0b6-180a57db241a",
+  "rootParentId": "5d4545b2-8a7d-47e1-b15a-2b43a02da476",
+  "name": "IQ game - IQ Questions - 4",
+  "auto": true,
+  "contexts": [
+    "IQgame-IQQuestions-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "IQgame.IQgame-custom.IQgame-IQQuestions-yes",
+      "affectedContexts": [
+        {
+          "name": "IQgame-IQQuestions-4-followup",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
+      "parameters": [
+        {
+          "id": "8e14e443-cfb5-432b-bdf7-a74a34bc911e",
+          "required": true,
+          "dataType": "@sys.number",
+          "name": "number",
+          "value": "$number.original",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 2,
+          "platform": "facebook",
+          "lang": "en",
+          "title": "A UFO was detected on the Radar flying 7400 miles in 3 min, what is the estimated speed per hour?",
+          "replies": [
+            "7400 miles/h",
+            "1480 miles/h",
+            "14080 miles/h",
+            "148000 miles/h",
+            "speed of light"
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "A UFO was detected on the Radar flying 7400 miles in 3 min, what is the estimated speed per hour?"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1508189124771,
+  "fallbackIntent": false,
+  "events": []
+}

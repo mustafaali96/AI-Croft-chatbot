@@ -1,0 +1,52 @@
+[
+  {
+    "id": "d9d5a9fa-fb26-4db4-9969-faa7f3add15b",
+    "data": [
+      {
+        "text": "no definite answer",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "a008e1ca-5223-4b83-9125-7491a658c029",
+    "data": [
+      {
+        "text": "99",
+        "alias": "number",
+        "meta": "@sys.number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "83c79c0e-af4f-4a30-b3cd-1c26693b66c4",
+    "data": [
+      {
+        "text": "66",
+        "alias": "number",
+        "meta": "@sys.number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "bdf0448e-b193-48b0-91eb-f8d80c311fc8",
+    "data": [
+      {
+        "text": "50",
+        "alias": "number",
+        "meta": "@sys.number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

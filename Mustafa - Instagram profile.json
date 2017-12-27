@@ -1,0 +1,71 @@
+{
+  "id": "2313a013-15ab-4b7d-917b-cdd8f19de9ee",
+  "parentId": "3409aacb-5630-4ee9-bc6f-eb44327a06fb",
+  "rootParentId": "3409aacb-5630-4ee9-bc6f-eb44327a06fb",
+  "name": "Mustafa - Instagram profile",
+  "auto": true,
+  "contexts": [
+    "Mustafa-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "Mustafa.Mustafa-custom",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "510901e2-0d1e-44cc-b852-6cade65d30d9",
+          "required": false,
+          "dataType": "@sys.given-name",
+          "name": "given-name",
+          "value": "$given-name",
+          "isList": false
+        },
+        {
+          "id": "0f70c7ca-75bb-4e9b-917d-0d77657a12d2",
+          "dataType": "@PeopleName",
+          "name": "PeopleName",
+          "value": "$PeopleName",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 1,
+          "platform": "facebook",
+          "lang": "en",
+          "title": "Mustafa Ali",
+          "subtitle": "Chat-bot Developer",
+          "imageUrl": "https://scontent.fkhi6-1.fna.fbcdn.net/v/t1.0-9/23843663_1581396231914549_7769532968874842525_n.jpg?oh\u003d322253baaf7c920c49f9f2258a56fccc\u0026oe\u003d5AC7767F",
+          "buttons": [
+            {
+              "text": "Mustafa Ali\u0027s Instagram",
+              "postback": "https://www.instagram.com/mustafa.ali.96/"
+            },
+            {
+              "text": "Mustafa\u0027s Github",
+              "postback": "https://github.com/mustafaali96"
+            },
+            {
+              "text": "Mustafa\u0027s Facebook",
+              "postback": "https://www.facebook.com/Mustafa.Ali.Mir.96"
+            }
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Check out his Insta profile: \nhttps://www.instagram.com/mustafa.ali.96"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1508189124811,
+  "fallbackIntent": false,
+  "events": []
+}

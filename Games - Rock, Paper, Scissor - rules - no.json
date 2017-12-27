@@ -1,0 +1,42 @@
+{
+  "id": "67819291-79b4-4852-a1cb-e7d6029c9be9",
+  "parentId": "9f305fe9-3367-4acc-a1ad-3a3d9697f466",
+  "rootParentId": "5d4545b2-8a7d-47e1-b15a-2b43a02da476",
+  "name": "Games - Rock, Paper, Scissor - rules - no",
+  "auto": true,
+  "contexts": [
+    "Games-RockPaperScissor-rules-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "Games.Games-custom.Games-RockPaperScissor-custom.Games-RockPaperScissor-rules-no",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": [
+            "Ok. Maybe next time.",
+            "As you wish."
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "facebook": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "cortanaCommand": {
+    "navigateOrService": "NAVIGATE",
+    "target": ""
+  },
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1508189124745,
+  "fallbackIntent": false,
+  "events": []
+}

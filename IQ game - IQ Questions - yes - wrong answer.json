@@ -1,0 +1,60 @@
+{
+  "id": "2d43bf8a-f407-47b8-b8d3-7f6f00389a43",
+  "parentId": "376ceeb7-6e5d-43f9-af1c-bd8462cf88f3",
+  "rootParentId": "5d4545b2-8a7d-47e1-b15a-2b43a02da476",
+  "name": "IQ game - IQ Questions - yes - wrong answer",
+  "auto": true,
+  "contexts": [
+    "IQgame-IQQuestions-yes-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "IQgame.IQgame-custom.IQgame-IQQuestions-yes.IQgame-IQQuestions-yes-custom-2",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "4cd06415-3aa0-4e8b-a710-c318e0711c62",
+          "required": true,
+          "dataType": "@sys.number",
+          "name": "number",
+          "value": "$number.original",
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "Please enter the missing number"
+            }
+          ],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 2,
+          "platform": "facebook",
+          "lang": "en",
+          "title": "Sorry your answer is incorrect. Better luck next time",
+          "replies": [
+            "Let\u0027s play again",
+            "I give up"
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Sorry your answer is incorrect. Better luck next time"
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "facebook": false
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1508189124811,
+  "fallbackIntent": false,
+  "events": []
+}

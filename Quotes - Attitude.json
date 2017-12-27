@@ -1,0 +1,66 @@
+{
+  "id": "80a5c3f0-efbd-4a6e-970f-c90220ee7089",
+  "name": "Quotes - Attitude",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "9b97b05b-1897-4149-916b-f08683b423cf",
+          "required": false,
+          "dataType": "@Quotes",
+          "name": "Quotes",
+          "value": "$Quotes",
+          "prompts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": [
+            "I believe if you keep your faith, you keep your trust, you keep the right attitude, if you\u0027re grateful, you\u0027ll see God open up new doors. - Joel Osteen",
+            "I love those who can smile in trouble... - Leonardo da Vinci",
+            "Style is a reflection of your attitude and your personality. - Shawn Ashmore",
+            "We are what we pretend to be, so we must be careful about what we pretend to be. - Kurt Vonnegut Jr.",
+            "Don\u0027t waste your time with explanations: people only hear what they want to hear. - Paulo Coelho",
+            "Excellence is not a skill, it\u0027s an attitude. - Ralph Marston",
+            "Adopting the right attitude can convert a negative stress into a positive one. - Hans Selye",
+            "If you don\u0027t like something, change it. If you can\u0027t change it, change your attitude. -\n Maya Angelou",
+            "I am a part of all that I have met. - Alfred Tennyson,",
+            "Leadership is practiced not so much in words as in attitude and in actions. - Harold S. Geneen",
+            "When you take control of your attitude, you take control of your life. - Roy T. Bennett",
+            "Happiness depends on your mindset and attitude. - Roy T. Bennett",
+            "Attitude is a little thing that makes a big difference. - Winston Churchill",
+            "Our life is what our thoughts make it. - Marcus Aurelius",
+            "Reject your sense of injury and the injury itself disappears. - Marcus Aurelius",
+            "A positive attitude can really make dreams come true - it did for me. - David Bailey",
+            "Attitude is a little thing that makes a big difference. - Winston S. Churchill",
+            "Life is 10 percent what you make it and 90 percent how you take it. - Irving Berlin",
+            "Being sexy is all about attitude, not body type. It\u0027s a state of mind. - Amisha Patel",
+            "People may hear your words, but they feel your attitude. - John C. Maxwell"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "facebook": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "cortanaCommand": {
+    "navigateOrService": "NAVIGATE",
+    "target": ""
+  },
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1506138337,
+  "fallbackIntent": false,
+  "events": []
+}

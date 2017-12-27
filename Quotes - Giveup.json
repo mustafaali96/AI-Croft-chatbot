@@ -1,0 +1,49 @@
+{
+  "id": "574a89cc-0616-47e0-9801-eec61c866464",
+  "name": "Quotes - Giveup",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "74e3cab2-47bc-41b8-ae75-bad223406dc3",
+          "required": false,
+          "dataType": "@Quotes",
+          "name": "Quotes",
+          "value": "$Quotes",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": [
+            "Winners never quit, and quitters never win",
+            "Never, never, never give up.",
+            "The secret of our success is that we never, never give up.",
+            "Your victory is right around the corner. Just never give up.",
+            "Our greatest weakness lies in giving up."
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "facebook": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "cortanaCommand": {
+    "navigateOrService": "NAVIGATE",
+    "target": ""
+  },
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1512373883,
+  "fallbackIntent": false,
+  "events": []
+}

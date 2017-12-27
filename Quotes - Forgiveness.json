@@ -1,0 +1,74 @@
+{
+  "id": "c327bd71-5472-4c7e-9cd5-3127cbaefeee",
+  "name": "Quotes - Forgiveness",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "Quotes-Forgiveness-followup",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
+      "parameters": [
+        {
+          "id": "f2baa5b4-3ad2-45fc-a4ad-611a0a2a8beb",
+          "required": false,
+          "dataType": "@Quotes",
+          "name": "Quotes",
+          "value": "$Quotes",
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "Topic?"
+            }
+          ],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": [
+            "Darkness cannot drive out darkness; only light can do that. Hate cannot drive out hate; only love can do that. - Martin Luther King, Jr.",
+            "There is no love without forgiveness, and there is no forgiveness without love. - Bryant H. McGill",
+            "To err is human, to forgive, divine. - Alexander Pope",
+            "Forgiveness means it finally becomes unimportant that you hit back. - Anne Lamott",
+            "It is easier to forgive an enemy than to forgive a friend. - William Blake",
+            "Forgiveness is not an occasional act, it is a constant attitude. - Martin Luther King Jr.",
+            "Mistakes are always forgivable, if one has the courage to admit them. - Bruce Lee",
+            "Forgiveness is a virtue of the brave. - Indira Gandhi",
+            "One of the keys to happiness is a bad memory. - Rita Mae Brown",
+            "True forgiveness is when you can say, \"Thank you for that experience. - Oprah Winfrey",
+            "I can have peace of mind only when I forgive rather than judge. - Gerald Jampolsky",
+            "Always forgive your enemies - nothing annoys them so much. - Oscar Wilde",
+            "Forgiveness says you are given another chance to make a new beginning. - Desmond Tutu",
+            "Forgive your enemies, but never forget their names. - John F. Kennedy",
+            "It is surely better to pardon too much, than to condemn too much. - George Eliot",
+            "Before we can forgive one another, we have to understand one another. - Emma Goldman",
+            "Acceptance and tolerance and forgiveness, those are life-altering lessons. - Jessica Lange",
+            "We think that forgiveness is weakness, but it\u0027s absolutely not, it takes a very strong person to forgive. - T. D. Jakes",
+            "A life lived without forgiveness is a prison. - William Arthur Ward",
+            "I\u0027m not perfect. Remember that, and try to forgive me when I fail you. - Elizabeth Lowell"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "cortanaCommand": {
+    "navigateOrService": "NAVIGATE",
+    "target": ""
+  },
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1508823347,
+  "fallbackIntent": false,
+  "events": []
+}

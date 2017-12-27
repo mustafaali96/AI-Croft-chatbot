@@ -1,0 +1,74 @@
+{
+  "id": "81699753-6ff8-4961-972c-e058f6208269",
+  "name": "Quotes - Inspirational",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "e2e95249-8416-4ccb-892f-399229736170",
+          "required": false,
+          "dataType": "@Quotes",
+          "name": "Quotes",
+          "value": "$Quotes",
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "Topic"
+            }
+          ],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": [
+            "The best preparation for tomorrow is doing your best today. H. Jackson Brown",
+            "We must let go of the life we have planned, so as to accept the one that is waiting for us. Joseph Campbell",
+            "The best and most beautiful things in the world cannot be seen or even touched - they must be felt with the heart. Helen Keller",
+            "I can\u0027t change the direction of the wind, but I can adjust my sails to always reach my destination. Jimmy Dean",
+            "Start by doing what\u0027s necessary, then do what\u0027s possible, and suddenly you are doing the impossible. Francis of Assisi",
+            "Put your heart, mind, and soul into even your smallest acts. This is the secret of success. Swami Sivananda",
+            "Change your thoughts and you change your world. Norman Vincent Peale",
+            "Keep your face always toward the sunshine and shadows will fall behind you. Walt Whitman",
+            "Your work is going to fill a large part of your life, and the only way to be truly satisfied is to do what you believe is great work. And the only way to do great work is to love what you do. If you haven\u0027t found it yet, keep looking. Don\u0027t settle. As with all matters of the heart, you\u0027ll know when you find it. Steve Jobs",
+            "What we think, we become.",
+            "Nothing is impossible, the word itself says \u0027I\u0027m possible\u0027! Audrey Hepburn",
+            "Try to be a rainbow in someone\u0027s cloud. Maya Angelou",
+            "What lies behind you and what lies in front of you, pales in comparison to what lies inside of you. Ralph Waldo Emerson",
+            "Believe you can and you\u0027re halfway there. Theodore Roosevelt",
+            "Let go of those who bring you down and surround yourself with those who bring out the best in you.",
+            "If you always put limit on everything you do, physical or anything else. It will spread into your work and into your life. There are no limits. There are only plateaus, and you must not stay there, you must go beyond them. Bruce Lee",
+            "We can\u0027t help everyone, but everyone can help someone. Ronald Reagan",
+            "There is nothing impossible to him who will try. Alexander the Great",
+            "Prayer is man\u0027s greatest power! W. Clement Stone",
+            "A champion is someone who gets up when he can\u0027t. Jack Dempsey",
+            "Hard work spotlights the character of people: some turn up their sleeves, some turn up their noses, and some don\u0027t turn up at all. Sam Ewing",
+            "I set out on a journey of love, seeking truth, peace and understanding. I am still learning. Muhammad Ali",
+            "Mistakes are the portals of discovery. James Joyce",
+            "When you show deep empathy toward others, their defensive energy goes down, and positive energy replaces it. Stephen Covey"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "facebook": false
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "cortanaCommand": {
+    "navigateOrService": "NAVIGATE",
+    "target": ""
+  },
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1508823389,
+  "fallbackIntent": false,
+  "events": []
+}

@@ -1,0 +1,72 @@
+{
+  "id": "961a4ca6-b526-4c40-a2c1-5227638819bc",
+  "name": "Name Greetings",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "3f0e31cb-cd1c-4dff-b42b-420807e720aa",
+          "required": false,
+          "dataType": "@PeopleName",
+          "name": "PeopleName",
+          "value": "$PeopleName",
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "What should i call you?"
+            },
+            {
+              "lang": "en",
+              "value": "your good name?"
+            }
+          ],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 4,
+          "platform": "facebook",
+          "lang": "en",
+          "payload": {
+            "facebook": {
+              "attachment": {
+                "type": "",
+                "payload": {}
+              }
+            }
+          }
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": [
+            "Hiya! $PeopleName",
+            "Yo! $PeopleName",
+            "Pleased to meet you $PeopleName",
+            "How do you do $PeopleName ?",
+            "How’s life $PeopleName ?"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "facebook": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "cortanaCommand": {
+    "navigateOrService": "NAVIGATE",
+    "target": ""
+  },
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1513015332,
+  "fallbackIntent": false,
+  "events": []
+}

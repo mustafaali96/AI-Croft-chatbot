@@ -1,0 +1,56 @@
+[
+  {
+    "id": "a998334f-e8e3-4b24-87ad-22e1da8f363e",
+    "data": [
+      {
+        "text": "Inspirational quote",
+        "alias": "Quotes",
+        "meta": "@Quotes",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "61918a1f-dada-4022-bff5-708897fd34d9",
+    "data": [
+      {
+        "text": "Tell me some ",
+        "userDefined": false
+      },
+      {
+        "text": "Inspirational quote",
+        "alias": "Quotes",
+        "meta": "@Quotes",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "08f72094-dc63-4501-8bd0-8d1ed28bd13f",
+    "data": [
+      {
+        "text": "Any ",
+        "userDefined": false
+      },
+      {
+        "text": "inspirational quote",
+        "alias": "Quotes",
+        "meta": "@Quotes",
+        "userDefined": false
+      },
+      {
+        "text": " ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1504262401
+  }
+]

@@ -1,0 +1,75 @@
+{
+  "id": "0475c4d2-7e67-48ce-b465-2295b8bfbf0b",
+  "name": "Quotes - Hope",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "9dc52333-2342-4f96-868b-340f4a833c9f",
+          "required": false,
+          "dataType": "@Quotes",
+          "name": "Quotes",
+          "value": "$Quotes",
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "Topic"
+            }
+          ],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": [
+            "Yesterday is history, tomorrow is a mystery, today is a gift of God, which is why we call it the present. - Bil Keane",
+            "I like the night. Without the dark, we\u0027d never see the stars. - Stephenie Meyer",
+            "Hope is the thing with feathers \nThat perches in the soul \nAnd sings the tune without the words \nAnd never stops at all. - Emily Dickinson",
+            "They say a person needs just three things to be truly happy in this world: someone to love, something to do, and something to hope for. - Tom Bodett",
+            "And now these three remain: faith, hope and love. But the greatest of these is love.",
+            "Life\u0027s under no obligation to give us what we expect. - Margaret Mitchell",
+            "A good teacher can inspire hope, ignite the imagination, and instill a love of learning. - Brad Henry",
+            "Optimism is the faith that leads to achievement. Nothing can be done without hope and confidence. - Helen Keller",
+            "Learn from yesterday, live for today, hope for tomorrow. The important thing is not to stop questioning. - Albert Einstein",
+            "Stay positive and happy. Work hard and don\u0027t give up hope. Be open to criticism and keep learning. Surround yourself with happy, warm and genuine people. - Tena Desae",
+            "There was never a night or a problem that could defeat sunrise or hope. - Bernard Williams",
+            "Hope is being able to see that there is light despite all of the darkness. - Desmond Tutu",
+            "All that I am, or hope to be, I owe to my angel mother. - Abraham Lincoln",
+            "We must accept finite disappointment, but never lose infinite hope. - Martin Luther King, Jr.",
+            "To love means loving the unlovable. To forgive means pardoning the unpardonable. Faith means believing the unbelievable. Hope means hoping when everything seems hopeless. - Gilbert K. Chesterton",
+            "Hope is like the sun, which, as we journey toward it, casts the shadow of our burden behind us. - Samuel Smiles",
+            "You cannot hope to build a better world without improving the individuals. - Marie Curie",
+            "Survival was my only hope, success my only revenge. - Patricia Cornwell",
+            "All the great things are simple, and many can be expressed in a single word: freedom, justice, honor, duty, mercy, hope. - Winston Churchill",
+            "Hope for the best and prepare for the worst. - Thomas Norton",
+            "If it were not for hope, the heart would break. - Greek",
+            "Where there\u0027s life, there\u0027s hope. - Theocritus",
+            "We must accept finite disappointment, but never lose infinite hope. - Martin",
+            "Let your hopes, not your hurts, shape your future. - Robert H. Schuller",
+            "Walk on with hope in your heart, and you\u0027ll never walk alone. - Shah Rukh Khan"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "facebook": false
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "cortanaCommand": {
+    "navigateOrService": "NAVIGATE",
+    "target": ""
+  },
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1508823571,
+  "fallbackIntent": false,
+  "events": []
+}

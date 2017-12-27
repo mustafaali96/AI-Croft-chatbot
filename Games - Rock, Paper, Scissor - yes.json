@@ -1,0 +1,109 @@
+{
+  "id": "70ea34a1-3b78-4851-bc21-770543a72dec",
+  "parentId": "8efa2e65-47c9-47e7-b99a-4dca2b47a14b",
+  "rootParentId": "5d4545b2-8a7d-47e1-b15a-2b43a02da476",
+  "name": "Games - Rock, Paper, Scissor - yes",
+  "auto": true,
+  "contexts": [
+    "Games-RockPaperScissor-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "Games.Games-custom.Games-RockPaperScissor-yes",
+      "affectedContexts": [
+        {
+          "name": "Games-RockPaperScissor-yes-followup",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "simple_response",
+          "platform": "google",
+          "lang": "en",
+          "customizeAudio": true,
+          "textToSpeech": "OK Let\u0027s see who will win\nSelect any one on count of three. READY..!!!",
+          "displayText": "Ok! Let\u0027s see who will win 😈\nSelect any one \"Rock, Paper or Scissor\", on count of three. READY..!!!"
+        },
+        {
+          "type": "simple_response",
+          "platform": "google",
+          "lang": "en",
+          "customizeAudio": true,
+          "textToSpeech": "3 \n2\n1",
+          "displayText": "3!\n2!\n1!"
+        },
+        {
+          "type": "suggestion_chips",
+          "platform": "google",
+          "lang": "en",
+          "suggestions": [
+            {
+              "title": "Rock ⛰️"
+            },
+            {
+              "title": "Paper 📄"
+            },
+            {
+              "title": "Scissor ✂"
+            }
+          ]
+        },
+        {
+          "type": 2,
+          "platform": "facebook",
+          "lang": "en",
+          "title": "Select fast",
+          "replies": [
+            "Rock ⛰️",
+            "Paper 📄",
+            "Scissor ✂"
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Ok! Let\u0027s see who will win 😈"
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Select any one \"Rock, Paper or Scissor\", on count of three. \nREADY..!!!"
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "3!"
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "2!"
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "1!"
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "facebook": true,
+        "google": false
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "cortanaCommand": {
+    "navigateOrService": "NAVIGATE",
+    "target": ""
+  },
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1514053229,
+  "fallbackIntent": false,
+  "events": []
+}

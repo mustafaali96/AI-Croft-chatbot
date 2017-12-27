@@ -1,0 +1,68 @@
+{
+  "id": "0c3ff694-805a-4379-8582-d4344128d0bf",
+  "name": "Quotes - Intelligence",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "b6ff56ba-d74e-46a4-b889-c337d1f3f2f5",
+          "required": false,
+          "dataType": "@Quotes",
+          "name": "Quotes",
+          "value": "$Quotes",
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "Topic"
+            }
+          ],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": [
+            "Joy in looking and comprehending is nature\u0027s most beautiful gift. - Albert Einstein",
+            "The true sign of intelligence is not knowledge but imagination. - Albert Einstein",
+            "The function of education is to teach one to think intensively and to think critically. Intelligence plus character - that is the goal of true education. - Martin Luther King, Jr.",
+            "A great deal of intelligence can be invested in ignorance when the need for illusion is deep. - Saul Bellow",
+            "Failure is simply the opportunity to begin again, this time more intelligently. -\n Henry Ford",
+            "Talent wins games, but teamwork and intelligence wins championships. - Michael Jordan",
+            "The difference between stupidity and genius is that genius has its limits. - Albert Einstein",
+            "Intelligence is the ability to adapt to change. - Stephen Hawking",
+            "Intelligence without ambition is a bird without wings. - Salvador Dali",
+            "There is no great genius without some touch of madness. - Aristotle",
+            "A smart man makes a mistake, learns from it, and never makes that mistake again. But a wise man finds a smart man and learns from him how to avoid the mistake altogether. - Roy H. Williams",
+            "Talent hits a target no one else can hit; Genius hits a target no one else can see. -\n Arthur Schopenhauer",
+            "If everyone is thinking alike, then somebody isn\u0027t thinking. - George S. Patton",
+            "Common sense is not so common. - Voltaire",
+            "Intellectual passion drives out sensuality. - Leonardo da Vinci",
+            "A man of genius makes no mistakes; his errors are volitional and are the portals of discovery. - James Joyce",
+            "Be as smart as you can, but remember that it is always better to be wise than to be smart. - Alan Alda",
+            "Wherever smart people work, doors are unlocked. - Steve Wozniak"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "facebook": false
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "cortanaCommand": {
+    "navigateOrService": "NAVIGATE",
+    "target": ""
+  },
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1508823411,
+  "fallbackIntent": false,
+  "events": []
+}

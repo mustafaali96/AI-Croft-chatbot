@@ -1,0 +1,52 @@
+{
+  "id": "7f70d8a2-f712-41e3-bd96-7df9e40685fa",
+  "parentId": "da1aa846-38f4-40c6-912f-fdf8c627ab05",
+  "rootParentId": "5d4545b2-8a7d-47e1-b15a-2b43a02da476",
+  "name": "IQ game - IQ Questions - 4 - wrong answer",
+  "auto": true,
+  "contexts": [
+    "IQgame-IQQuestions-4-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "IQgame.IQgame-custom.IQgame-IQQuestions-yes.IQgame-IQQuestions-4-custom-2",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "722dba9c-0d1b-449d-acda-d4d435353517",
+          "required": false,
+          "dataType": "@sys.unit-length",
+          "name": "unit-length",
+          "value": "$unit-length.original",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 2,
+          "platform": "facebook",
+          "lang": "en",
+          "title": "Sorry your answer is incorrect. Better luck next time",
+          "replies": [
+            "Lets play again",
+            "I give up"
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Sorry your answer is incorrect. Better luck next time"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1508189124811,
+  "fallbackIntent": false,
+  "events": []
+}

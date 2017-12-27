@@ -1,0 +1,51 @@
+[
+  {
+    "id": "9e531c7d-f56d-4074-8f06-3711e5693f4c",
+    "data": [
+      {
+        "text": "Dont; ",
+        "userDefined": false
+      },
+      {
+        "text": "give up",
+        "alias": "Quotes",
+        "meta": "@Quotes",
+        "userDefined": true
+      },
+      {
+        "text": " lines",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "35a700fa-72dd-4d52-94ad-23e085b08595",
+    "data": [
+      {
+        "text": "I give up",
+        "alias": "Quotes",
+        "meta": "@Quotes",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 1512373883
+  },
+  {
+    "id": "b48a41e2-2c8b-446f-9670-6f3d881d12d3",
+    "data": [
+      {
+        "text": "give up quotes",
+        "alias": "Quotes",
+        "meta": "@Quotes",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1512373883
+  }
+]

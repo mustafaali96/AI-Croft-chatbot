@@ -1,0 +1,53 @@
+{
+  "id": "a513b383-7d13-4c26-9bd1-a96373fa5ec8",
+  "name": "AI Croft",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "AICroft-followup",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
+      "parameters": [
+        {
+          "id": "a2107aaf-7f55-4eda-a8b1-5ae308d2dbea",
+          "required": false,
+          "dataType": "@PeopleName",
+          "name": "PeopleName",
+          "value": "$PeopleName",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": [
+            "AI Croft",
+            "My name is AI Croft"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "google": true,
+        "facebook": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "cortanaCommand": {
+    "navigateOrService": "NAVIGATE",
+    "target": ""
+  },
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1500580097,
+  "fallbackIntent": false,
+  "events": []
+}

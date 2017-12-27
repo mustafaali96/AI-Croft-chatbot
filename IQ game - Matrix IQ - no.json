@@ -1,0 +1,52 @@
+{
+  "id": "e120f936-be0a-4246-a8fa-7021f0089e11",
+  "parentId": "f09593ad-641f-486a-8058-e35c3d76cbd2",
+  "rootParentId": "5d4545b2-8a7d-47e1-b15a-2b43a02da476",
+  "name": "IQ game - Matrix IQ - no",
+  "auto": true,
+  "contexts": [
+    "IQgame-MatrixIQ-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "IQgame.IQgame-custom.IQgame-MatrixIQ-no",
+      "affectedContexts": [
+        {
+          "name": "IQgame-MatrixIQ-no-followup",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 2,
+          "platform": "facebook",
+          "lang": "en",
+          "title": "Don\u0027t be afraid",
+          "replies": [
+            "OK let\u0027s play a game",
+            "I\u0027m afraid",
+            "Maybe next time"
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "I know you are strong enough 🙂"
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "facebook": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1508189124745,
+  "fallbackIntent": false,
+  "events": []
+}

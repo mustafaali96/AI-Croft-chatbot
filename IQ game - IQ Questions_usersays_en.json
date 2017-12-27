@@ -1,0 +1,35 @@
+[
+  {
+    "id": "11f5d96e-420c-411a-ae28-41e8bae06c41",
+    "data": [
+      {
+        "text": "Questions and Answers",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "c224e6bf-75c1-4544-9990-66833af22ddc",
+    "data": [
+      {
+        "text": "Questions",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "f67e60ce-c08b-4841-b276-d5722f6f7d66",
+    "data": [
+      {
+        "text": "IQ Questions",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

@@ -1,0 +1,81 @@
+{
+  "id": "f4cabfbc-f7c5-4433-9836-0db055b18c12",
+  "name": "Google map",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "caf35075-d5b1-4cfe-b9a2-be9f2ceb39b2",
+          "required": true,
+          "dataType": "@Countries_cities",
+          "name": "Countries_cities",
+          "value": "$Countries_cities.original",
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "Which location you want to search?"
+            }
+          ],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": "basic_card",
+          "platform": "google",
+          "lang": "en",
+          "title": "$Countries_cities",
+          "subtitle": "Google maps",
+          "formattedText": "show $Countries_cities map",
+          "image": {
+            "url": "http://authors.appadvice.com/wp-content/appadvice-v2-media/2017/09/googlemaps_78b60dde5b26fe078a19bbd16b0111ca.png",
+            "accessibilityText": "Google"
+          },
+          "buttons": [
+            {
+              "title": "$Countries_cities on Google map",
+              "openUrlAction": {
+                "url": "https://www.google.com/maps/place/$Countries_cities"
+              }
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "platform": "facebook",
+          "lang": "en",
+          "title": "$Countries_cities",
+          "subtitle": "Google maps",
+          "imageUrl": "https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/082015/google_maps_2014.png?itok\u003dplvGbB6L",
+          "buttons": [
+            {
+              "text": "$Countries_cities on Google maps",
+              "postback": "https://www.google.com/maps/place/$Countries_cities"
+            }
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "$Countries_cities map url: https://www.google.com/maps/place/$Countries_cities"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "cortanaCommand": {
+    "navigateOrService": "NAVIGATE",
+    "target": ""
+  },
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1513839594,
+  "fallbackIntent": false,
+  "events": []
+}

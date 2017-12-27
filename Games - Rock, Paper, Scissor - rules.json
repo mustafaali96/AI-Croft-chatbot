@@ -1,0 +1,105 @@
+{
+  "id": "9f305fe9-3367-4acc-a1ad-3a3d9697f466",
+  "parentId": "8efa2e65-47c9-47e7-b99a-4dca2b47a14b",
+  "rootParentId": "5d4545b2-8a7d-47e1-b15a-2b43a02da476",
+  "name": "Games - Rock, Paper, Scissor - rules",
+  "auto": true,
+  "contexts": [
+    "Games-RockPaperScissor-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "Games.Games-custom.Games-RockPaperScissor-custom",
+      "affectedContexts": [
+        {
+          "name": "Games-RockPaperScissor-rules-followup",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "simple_response",
+          "platform": "google",
+          "lang": "en",
+          "customizeAudio": true,
+          "textToSpeech": "The Game is played where the players substitute the three elements of Rock , Paper and Scissors .",
+          "displayText": "The Game is played where the players substitute the three elements of Rock ⛰️ , Paper 📄 and Scissors ✂."
+        },
+        {
+          "type": "simple_response",
+          "platform": "google",
+          "lang": "en",
+          "customizeAudio": true,
+          "textToSpeech": "Rock wins against Scissors.\r\nScissors wins against Paper.\r\nPaper wins against Rock.\r\nSo are you ready to play",
+          "displayText": "* Rock wins against Scissors\n\n* Scissors wins against Paper\n\n* Paper wins against Rock\n\nSo are you ready to play ?"
+        },
+        {
+          "type": "suggestion_chips",
+          "platform": "google",
+          "lang": "en",
+          "suggestions": [
+            {
+              "title": "Yes! play"
+            },
+            {
+              "title": "No"
+            }
+          ]
+        },
+        {
+          "type": 3,
+          "platform": "facebook",
+          "lang": "en",
+          "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Rock-paper-scissors.svg/1200px-Rock-paper-scissors.svg.png"
+        },
+        {
+          "type": 2,
+          "platform": "facebook",
+          "lang": "en",
+          "title": "So are you ready ?",
+          "replies": [
+            "Yes! Play",
+            "No"
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "The Game is played where the players substitute the three elements of Rock ⛰️ , Paper 📄 and Scissors ✂."
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "* Rock wins against Scissors"
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "* Scissors wins against Paper"
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "* Paper wins against Rock"
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "facebook": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "cortanaCommand": {
+    "navigateOrService": "NAVIGATE",
+    "target": ""
+  },
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1508189124811,
+  "fallbackIntent": false,
+  "events": []
+}

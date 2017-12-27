@@ -1,0 +1,64 @@
+{
+  "id": "34ae2f5d-e263-48b7-8eeb-24b292513850",
+  "parentId": "3409aacb-5630-4ee9-bc6f-eb44327a06fb",
+  "rootParentId": "3409aacb-5630-4ee9-bc6f-eb44327a06fb",
+  "name": "Mustafa - fb profile",
+  "auto": true,
+  "contexts": [
+    "Mustafa-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "Mustafa.Mustafa-custom",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "9f75cda4-e98c-4749-b76f-d770d9045cf3",
+          "required": false,
+          "dataType": "@sys.given-name",
+          "name": "given-name",
+          "value": "$given-name",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 1,
+          "platform": "facebook",
+          "lang": "en",
+          "title": "Mustafa Ali",
+          "subtitle": "Chat-bot developer",
+          "imageUrl": "https://scontent.fkhi6-1.fna.fbcdn.net/v/t1.0-9/13895511_1085106888210155_8426226285022134464_n.jpg?oh\u003d6052bba0e07ebaa7ca104e37098039df\u0026oe\u003d5AD13663",
+          "buttons": [
+            {
+              "text": "Mustafa\u0027s Facebook",
+              "postback": "https://www.facebook.com/Mustafa.Ali.Mir.96"
+            },
+            {
+              "text": "Mustafa\u0027s LinkedIn",
+              "postback": "https://www.linkedin.com/in/MustafaAli96"
+            },
+            {
+              "text": "Mustafa\u0027s Instagram",
+              "postback": "https://www.instagram.com/mustafa.ali.96/"
+            }
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Check out Mustafa\u0027s facebook profile:\nhttps://www.facebook.com/Mustafa.Ali.Mir.96"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1508189124811,
+  "fallbackIntent": false,
+  "events": []
+}

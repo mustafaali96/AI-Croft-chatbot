@@ -1,0 +1,35 @@
+[
+  {
+    "id": "bedd5817-026d-45bf-ba0e-43c02fec9c05",
+    "data": [
+      {
+        "text": "No thanks",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "e1b79dba-33a5-478f-98be-811e601d97ce",
+    "data": [
+      {
+        "text": "Maybe next time",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "a2d046df-f9ac-429d-a1a3-4dde45cdd0b1",
+    "data": [
+      {
+        "text": "I\u0027m afraid",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

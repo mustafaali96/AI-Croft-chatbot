@@ -1,0 +1,71 @@
+{
+  "id": "363fc6b9-ad59-4bce-8433-436b75c28788",
+  "name": "Jokes",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "Jokes-followup",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": [
+            "Do not argue with an idiot. He will drag you down to his level and beat you with experience.",
+            "I asked God for a bike, but I know God doesn\u0027t work that way. So I stole a bike and asked for forgiveness.",
+            "We live in a society where pizza gets to your house before the police.",
+            "If I agreed with you we\u0027d both be wrong.",
+            "Knowledge is knowing a tomato is a fruit, Wisdom is not putting it in a fruit salad.",
+            "Q:  Why did the vampire get fired from the blood bank?\nA:  He was caught drinking on the job!",
+            "Politicians and diapers have one thing in common. They should both be changed regularly, and for the same reason.",
+            "Evening news is where they begin with \u0027Good evening\u0027, and then proceed to tell you why it isn\u0027t.",
+            "If God is watching us, the least we can do is be entertaining.",
+            "If 4 out of 5 people SUFFER from diarrhea... does that mean that one enjoys it?",
+            "A bus station is where a bus stops. A train station is where a train stops. On my desk, I have a work station..",
+            "Some people say \"If you can\u0027t beat them, join them\". I say \"If you can\u0027t beat them, beat them\", because they will be expecting you to join them, so you will have the element of surprise.",
+            "You\u0027re never too old to learn something stupid.",
+            "What do you do if someone thinks an onion is the only food that can make them cry?\n\nThrow a coconut at their face.",
+            "Doctor: \"I\u0027m sorry but you suffer from a terminal illness and have only 10 to live.\"\nPatient: \"What do you mean, 10? 10 what? Months? Weeks?!\"\nDoctor: \"Nine.\"",
+            "Mother: \"How was school today, Patrick?\"\nPatrick: \"It was really great mum! Today we made explosives!\"\nMother: \"Ooh, they do very fancy stuff with you these days. And what will you do at school tomorrow?\"\nPatrick: \"What school?\"",
+            "Patient: Oh doctor, I’m just so nervous. This is my first operation.\nDoctor: Don\u0027t worry. Mine too.",
+            "What do you call a laughing motorcycle? A Yamahahaha.",
+            "Wife: \"In my dream, I saw you in a jewelry store and you bought me a diamond ring.\" \nHusband: \"I had the same dream and I saw your dad paying the bill.\"",
+            "Boy: *calls 911* Hello? I need your help!\n911: Alright, What is it?\nBoy: Two girls are fighting over me!\n911: So what\u0027s your emergency?\nBoy: The ugly one is winning.",
+            "Saamba was walking slow so i told him mufasa.",
+            "Me: Siri, why am I still single?\nSiri: *Opens front camera*\nMe: *crying intensifies*",
+            "Patient: The problem is that obesity runs in our family.\nDoctor: No, the problem is that no one runs in your family.",
+            "*Husband (watching a video): Don\u0027t do it! I swear you gonna regret it for the rest of your life. You stupid... idiot! Don\u0027t say yes. No! No! NOOO!! Aw dang, he actually did it! What a dumb!\n *Wife: Honey, why you so mad? What are you watching?\n *Husband: Our wedding ceremony.",
+            "What did one egg say to the other?\nEggs-cuse me, please.",
+            "A child asked his father, \"How were people born?\" \nSo his father said, \"Adam and Eve made babies, then their babies became adults and made babies, and so on.\" \nThe child then went to his mother, asked her the same question and she told him, \"We were monkeys then we evolved to become like we are now.\" \nThe child ran back to his father and said, \"You lied to me!\" \nHis father replied, \"No, your mom was talking about her side of the family.\"",
+            "Q: Why couldn\u0027t the leopard play hide and seek? \nA: Because he was always spotted.",
+            "Teacher: \"Answer this math problem: if your father earns $500 a week and gives half to your mother. What will he have?\" \nStudent: \"A heart attack.\"",
+            "Son: \"Dad, when will I be old enough so I don\u0027t have to ask mom for her permission to go out?\" \nDad: \"Son, even I haven\u0027t grown old enough to go out without her permission!\""
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "facebook": true,
+        "google": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "cortanaCommand": {
+    "navigateOrService": "NAVIGATE",
+    "target": ""
+  },
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1509116868,
+  "fallbackIntent": false,
+  "events": []
+}

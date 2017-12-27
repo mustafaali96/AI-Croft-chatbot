@@ -1,0 +1,56 @@
+{
+  "id": "4ad25564-b849-4aab-bac7-a6be91b9a39a",
+  "parentId": "363fc6b9-ad59-4bce-8433-436b75c28788",
+  "rootParentId": "363fc6b9-ad59-4bce-8433-436b75c28788",
+  "name": "Jokes - More",
+  "auto": true,
+  "contexts": [
+    "Jokes-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "Jokes.Jokes-custom",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": [
+            "Q:  Why did the vampire get fired from the blood bank?\nA:  He was caught drinking on the job!",
+            "Some people say \"If you can\u0027t beat them, join them\". I say \"If you can\u0027t beat them, beat them\", because they will be expecting you to join them, so you will have the element of surprise.",
+            "When a man opens the car door for his wife, you can be sure of one thing, either the car is new or the wife is.",
+            "What did one egg say to the other?\nEggs-cuse me, please.",
+            "Teacher: \"Anyone who thinks he\u0027s stupid may stand up!\"\n*Nobody stands up*\nTeacher: \"I’m sure there are some stupid students over here!!\"\n*Little Johnny stands up*\nTeacher: \"Ohh, Johnny you think you\u0027re stupid?\"\nLittle Johnny: \"No… I just feel bad that you\u0027re standing alone…\"",
+            "Why doesn’t anyone want to shave a crazy sheep?\nCause it’s a baaaaaaaaaad idea.",
+            "What do clouds wear under their shorts?\nThunderpants.",
+            "Saamba was walking slow so i told him mufasa.",
+            "Wife: \"In my dream, I saw you in a jewelry store and you bought me a diamond ring.\" \nHusband: \"I had the same dream and I saw your dad paying the bill.\"",
+            "Mother: \"How was school today, Patrick?\"\nPatrick: \"It was really great mum! Today we made explosives!\"\nMother: \"Ooh, they do very fancy stuff with you these days. And what will you do at school tomorrow?\"\nPatrick: \"What school?\"",
+            "Three drunken guys entered a taxi. The taxi driver knew that they were drunk so he started the engine and turned it off again. Then said: \"We have reached your destination\". The 1st guy gave him money and the 2nd guy said \"Thank you\". The 3rd guy slapped the driver. The driver was shocked thinking the 3rd drunk knew what he did. But then he asked \"What was that for?” The 3rd guy replied, \"Control your speed next time, you nearly killed us!\"",
+            "Boy: The principal is so dumb!\nGirl: Do you know who I am?\nBoy: No…\nGirl: I am the principal\u0027s daughter!\nBoy: Do you know who I am?\nGirl: No…\nBoy: Good! *walks away*",
+            "*Husband (watching a video): Don\u0027t do it! I swear you gonna regret it for the rest of your life. You stupid... idiot! Don\u0027t say yes. No! No! NOOO!! Aw dang, he actually did it! What a dumb!\n *Wife: Honey, why you so mad? What are you watching?\n *Husband: Our wedding ceremony.",
+            "Patient: The problem is that obesity runs in our family.\nDoctor: No, the problem is that no one runs in your family.",
+            "Me: Siri, why am I still single?\nSiri: *Opens front camera*\nMe: *crying intensifies*"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "facebook": true,
+        "google": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "cortanaCommand": {
+    "navigateOrService": "NAVIGATE",
+    "target": ""
+  },
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1508189124811,
+  "fallbackIntent": false,
+  "events": []
+}

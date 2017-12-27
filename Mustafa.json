@@ -1,0 +1,65 @@
+{
+  "id": "3409aacb-5630-4ee9-bc6f-eb44327a06fb",
+  "name": "Mustafa",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "Mustafa-followup",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
+      "parameters": [
+        {
+          "id": "ce8c8376-a514-4466-a4a1-68fd23045195",
+          "dataType": "@PeopleName",
+          "name": "PeopleName",
+          "value": "$PeopleName",
+          "isList": false
+        },
+        {
+          "id": "0fa31305-c480-474e-ace5-284ff3b0438e",
+          "dataType": "@PeopleName",
+          "name": "PeopleName1",
+          "value": "$PeopleName1",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 2,
+          "platform": "facebook",
+          "lang": "en",
+          "title": "Mustafa Ali, My inventor.",
+          "replies": [
+            "Show his profile",
+            "He is doing great"
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Mustafa Ali, My inventor."
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "facebook": false
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "cortanaCommand": {
+    "navigateOrService": "NAVIGATE",
+    "target": ""
+  },
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1509042319,
+  "fallbackIntent": false,
+  "events": []
+}

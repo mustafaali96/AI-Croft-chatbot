@@ -1,0 +1,178 @@
+[
+  {
+    "id": "f1b7e694-5a83-4c94-b510-59a43222e07e",
+    "data": [
+      {
+        "text": "Mustafa\u0027s",
+        "alias": "given-name",
+        "meta": "@sys.given-name",
+        "userDefined": false
+      },
+      {
+        "text": " LinkedIn",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "4597b148-12bb-4da9-acd4-9dd9af99758a",
+    "data": [
+      {
+        "text": "inventors facebook profile",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "45d9ec40-a8f7-4473-b58d-a2521c454d00",
+    "data": [
+      {
+        "text": "Mustafa\u0027s",
+        "alias": "given-name",
+        "meta": "@sys.given-name",
+        "userDefined": false
+      },
+      {
+        "text": " FB Profile.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "3c592903-774f-4207-8209-4d210ca54fd1",
+    "data": [
+      {
+        "text": "show his profile",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "195bbd1f-0a69-4289-b94a-fef83fb5a3f0",
+    "data": [
+      {
+        "text": "any social media profile link?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "9f59b0d2-78b1-433b-b196-075b72d1b5a2",
+    "data": [
+      {
+        "text": "Any link?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "d3b9e799-7b30-4a99-8d9d-0a446a0b8b80",
+    "data": [
+      {
+        "text": "how he looks like?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "5b3fb899-5bd1-440e-901f-eb86cf130ef3",
+    "data": [
+      {
+        "text": "who is ",
+        "userDefined": false
+      },
+      {
+        "text": "Mustafa",
+        "alias": "given-name",
+        "meta": "@sys.given-name",
+        "userDefined": false
+      },
+      {
+        "text": " ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "e7a210a5-a40f-4459-9180-dff752cfa694",
+    "data": [
+      {
+        "text": "is he awesome?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "4ca560ef-9f68-4298-b25f-32ffb48bf09a",
+    "data": [
+      {
+        "text": "who is he?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "3cd6096b-f5c4-4d0b-b2e6-7116185ced96",
+    "data": [
+      {
+        "text": "who is your inventor ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "e47d4882-2771-4bb0-bcd8-50748b5c2594",
+    "data": [
+      {
+        "text": "show me his picture",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "fd100817-8f19-4077-9ed9-5105068be7cc",
+    "data": [
+      {
+        "text": "can i have a picture of him?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "0144efb1-f09f-4bc1-af4a-7bdb922f8ac1",
+    "data": [
+      {
+        "text": "show me his profile",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

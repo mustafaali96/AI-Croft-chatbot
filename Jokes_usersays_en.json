@@ -1,0 +1,95 @@
+[
+  {
+    "id": "d1c97e86-09d6-4710-a0ed-57743b30728e",
+    "data": [
+      {
+        "text": " look up for jokes",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1509116868
+  },
+  {
+    "id": "0220357e-e64c-4d21-b8f5-d45ac8f2a042",
+    "data": [
+      {
+        "text": "tell",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " joke",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "b225bdf5-02d0-4f39-8be5-6f848afa60f3",
+    "data": [
+      {
+        "text": "Jokes",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "82209dba-06f8-456a-b638-e81f19aeec1e",
+    "data": [
+      {
+        "text": "tell me something ",
+        "userDefined": false
+      },
+      {
+        "text": "funny",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "66fc7594-34ab-4fb4-8341-fbb5a4bee00a",
+    "data": [
+      {
+        "text": "Joke of the day",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f04d0f0a-c9af-416e-bb00-4dce4af2c1cc",
+    "data": [
+      {
+        "text": "make me laugh",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "cc998ce3-6003-4472-8c40-5daa439140bb",
+    "data": [
+      {
+        "text": "Tell me a joke",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

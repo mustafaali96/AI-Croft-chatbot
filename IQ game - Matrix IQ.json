@@ -1,0 +1,45 @@
+{
+  "id": "f09593ad-641f-486a-8058-e35c3d76cbd2",
+  "parentId": "5d4545b2-8a7d-47e1-b15a-2b43a02da476",
+  "rootParentId": "5d4545b2-8a7d-47e1-b15a-2b43a02da476",
+  "name": "IQ game - Matrix IQ",
+  "auto": true,
+  "contexts": [
+    "IQgame-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "IQgame.IQgame-custom",
+      "affectedContexts": [
+        {
+          "name": "IQgame-MatrixIQ-followup",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Great! select any number to play Matrix IQ Game\n1, 2, 3, 4, 5, 6, 7, 8, 9 or don\u0027t wanna play"
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "facebook": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "cortanaCommand": {
+    "navigateOrService": "NAVIGATE",
+    "target": ""
+  },
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1508189124811,
+  "fallbackIntent": false,
+  "events": []
+}

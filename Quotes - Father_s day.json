@@ -1,0 +1,54 @@
+{
+  "id": "c7c4fdd4-f64b-4b44-a0f4-e8853191d32a",
+  "name": "Quotes - Father\u0027s day",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "6da9f704-43dc-4778-9ba9-02ac351e4b31",
+          "required": false,
+          "dataType": "@Quotes",
+          "name": "Quotes",
+          "value": "$Quotes.original",
+          "isList": true
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": [
+            "My father gave me the greatest gift anyone could give another person, he believed in me. - Jim Valvano",
+            "When a father gives to his son, both laugh, when a son gives to his father, both cry. - William Shakespeare",
+            "A real man loves his wife, and places his family as the most important thing in life. Nothing has brought me more peace and content in life than simply being a good husband and father. - Frank Abagnale",
+            "Until you have a son of your own... you will never know the joy, the love beyond feeling that resonates in the heart of a father as he looks upon his son. - Kent Nerburn",
+            "One father is more than a hundred schoolmasters. - George Herbert",
+            "Dad, wherever you are, you are gone but you will never be forgotten. - Conrad Hall",
+            "My father used to say that it\u0027s never too late to do anything you wanted to do. And he said, \u0027You never know what you can accomplish until you try. - Michael Jordan",
+            "To me, having kids is the ultimate job in life. I want to be most successful at being a good father. - Nick Lachey",
+            "I\u0027m always going to love my father. - Floyd Mayweather, Jr."
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "facebook": true,
+        "google": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "cortanaCommand": {
+    "navigateOrService": "NAVIGATE",
+    "target": ""
+  },
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1514029841,
+  "fallbackIntent": false,
+  "events": []
+}

@@ -1,0 +1,84 @@
+{
+  "id": "d65244e1-0800-414d-a545-6fcb4ca5ddc2",
+  "name": "Quotes - Motivational",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "9a11fbd9-9f8b-46dc-b0aa-9c4c4b195b12",
+          "required": false,
+          "dataType": "@Quotes",
+          "name": "Quotes",
+          "value": "$Quotes",
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "Topic"
+            }
+          ],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": [
+            "Only I can change my life. No one can do it for me. - Carol Burnett",
+            "Life is 10% what happens to you and 90% how you react to it. - Charles R. Swindoll",
+            "Optimism is the faith that leads to achievement. Nothing can be done without hope and confidence. - Helen Keller",
+            "Good, better, best. Never let it rest. \u0027Til your good is better and your better is best. - St. Jerome",
+            "With the new day comes new strength and new thoughts. - Eleanor Roosevelt",
+            "The secret of getting ahead is getting started. - Mark Twain",
+            "The past cannot be changed. The future is yet in your power. - unknown",
+            "Always do your best. What you plant now, you will harvest later. - Og Mandino",
+            "It always seems impossible until it\u0027s done. - Nelson Mandela",
+            "You will never win if you never begin. - Helen Rowland",
+            "Bravery is the solution to regret. - Robin Sharma",
+            "If you can dream it, you can do it. - Walt Disney",
+            "If you think you can do it, you can. - John Burroughs",
+            "It does not matter how slowly you go as long as you do not stop. - Confucius",
+            "Failure will never overtake me if my determination to succeed is strong enough. - Og Mandino",
+            "Believe in yourself! Have faith in your abilities! Without a humble but reasonable confidence in your own powers you cannot be successful or happy. - Norman Vincent Peale",
+            "Our greatest weakness lies in giving up. The most certain way to succeed is always to try just one more time. - Thomas A. Edison",
+            "Setting goals is the first step in turning the invisible into the visible. - Tony Robbins",
+            "You can\u0027t cross the sea merely by standing and staring at the water. -\n Rabindranath Tagore",
+            "Keep your eyes on the stars, and your feet on the ground. - Theodore Roosevelt",
+            "The secret of getting ahead is getting started. - Mark Twain",
+            "Well done is better than well said. - Benjamin Franklin",
+            "Aim for the moon. If you miss, you may hit a star. - W. Clement Stone",
+            "Quality is not an act, it is a habit. - Aristotle",
+            "In order to succeed, we must first believe that we can. - Nikos Kazantzakis",
+            "Act as if what you do makes a difference. It does. - William James",
+            "Accept the challenges so that you can feel the exhilaration of victory. - George S. Patton",
+            "Set your goals high, and don\u0027t stop till you get there. - Bo Jackson",
+            "The people who influence you are the people who believe in you. - Henry Drummond",
+            "A creative man is motivated by the desire to achieve, not by the desire to beat others. - Ayn Rand",
+            "If you fell down yesterday, stand up today. - H. G. Wells",
+            "Ever tried. Ever failed. No matter. Try Again. Fail again. Fail better. - Samuel Beckett",
+            "What you do today can improve all your tomorrows. - Ralph Marston",
+            "Either you run the day or the day runs you. - Jim Rohn"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "facebook": false
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "cortanaCommand": {
+    "navigateOrService": "NAVIGATE",
+    "target": ""
+  },
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1508823448,
+  "fallbackIntent": false,
+  "events": []
+}

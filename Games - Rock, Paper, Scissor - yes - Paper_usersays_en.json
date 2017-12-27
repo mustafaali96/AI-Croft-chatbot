@@ -1,0 +1,46 @@
+[
+  {
+    "id": "a6550f94-aea8-4640-a929-c9b79f4efac9",
+    "data": [
+      {
+        "text": "Paper 📄",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "def337dc-3633-4ee2-af39-227a5f9ac8a0",
+    "data": [
+      {
+        "text": "📄",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "38beb874-9b0f-47a4-bcba-d197aaaa7bb1",
+    "data": [
+      {
+        "text": "paper",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "141ca5f1-9074-49b7-a8de-047482537ed4",
+    "data": [
+      {
+        "text": "Paper",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

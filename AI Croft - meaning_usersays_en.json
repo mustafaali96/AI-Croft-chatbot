@@ -1,0 +1,89 @@
+[
+  {
+    "id": "45d66bd8-ec53-408f-a070-34cdeb7bf754",
+    "data": [
+      {
+        "text": "AI",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Croft",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " stands for?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "9c90db99-17b8-4866-b223-c86d8503358d",
+    "data": [
+      {
+        "text": "definition?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "ff748caa-8c36-49e1-a368-a5707dc0ace2",
+    "data": [
+      {
+        "text": "what is the meaning of your ",
+        "userDefined": false
+      },
+      {
+        "text": "name",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "bcc4d685-cb49-41ad-9171-b9819e80246c",
+    "data": [
+      {
+        "text": "what does ",
+        "userDefined": false
+      },
+      {
+        "text": "Croft",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " means",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "42c0fefe-9798-4090-a34c-2762dda61296",
+    "data": [
+      {
+        "text": "what does it means",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

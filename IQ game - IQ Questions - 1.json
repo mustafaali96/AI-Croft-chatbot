@@ -1,0 +1,100 @@
+{
+  "id": "376ceeb7-6e5d-43f9-af1c-bd8462cf88f3",
+  "parentId": "cd108fb1-a264-401b-a0b6-180a57db241a",
+  "rootParentId": "5d4545b2-8a7d-47e1-b15a-2b43a02da476",
+  "name": "IQ game - IQ Questions - 1",
+  "auto": true,
+  "contexts": [
+    "IQgame-IQQuestions-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "IQgame.IQgame-custom.IQgame-IQQuestions-yes",
+      "affectedContexts": [
+        {
+          "name": "IQgame-IQQuestions-yes-followup",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
+      "parameters": [
+        {
+          "id": "8a7b325d-3530-4991-9da4-b77dee013588",
+          "required": true,
+          "dataType": "@sys.number",
+          "name": "number",
+          "value": "$number.original",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": "simple_response",
+          "platform": "google",
+          "lang": "en",
+          "textToSpeech": "What number will be the next: 2, 4, 8, 14, 22, ?"
+        },
+        {
+          "type": "suggestion_chips",
+          "platform": "google",
+          "lang": "en",
+          "suggestions": [
+            {
+              "title": "26"
+            },
+            {
+              "title": "28"
+            },
+            {
+              "title": "32"
+            },
+            {
+              "title": "36"
+            },
+            {
+              "title": "40"
+            }
+          ]
+        },
+        {
+          "type": 2,
+          "platform": "facebook",
+          "lang": "en",
+          "title": "What number will be the next: 2, 4, 8, 14, 22, ?",
+          "replies": [
+            "26",
+            "28",
+            "32",
+            "36",
+            "40"
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "What number will be the next: 2, 4, 8, 14, 22, ?"
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "26, 28, 32, 36, 40"
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "facebook": false
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "cortanaCommand": {
+    "navigateOrService": "NAVIGATE",
+    "target": ""
+  },
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1508189124771,
+  "fallbackIntent": false,
+  "events": []
+}

@@ -1,0 +1,47 @@
+{
+  "id": "817de978-461e-4be0-a1d1-862e7a352545",
+  "parentId": "363fc6b9-ad59-4bce-8433-436b75c28788",
+  "rootParentId": "363fc6b9-ad59-4bce-8433-436b75c28788",
+  "name": "Jokes - Not funny",
+  "auto": true,
+  "contexts": [
+    "Jokes-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "Jokes.Jokes-custom",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": [
+            "I see that you’ve set aside this special time to humiliate yourself by chatbot 😂",
+            "If laughter is the best medicine, your face must be curing the world 😅 Hope you\u0027ll like this joke 🤣",
+            "You need to upgrade your sense of humor to understand my jokes 😏",
+            "I don’t think you are stupid. You just have a bad luck when thinking 😆 Hope you still didn\u0027t get it 😝",
+            "If you were twice as smart, you’d still be stupid cuz 2x0 remains ZERO 😂",
+            "I\u0027m impressed, I\u0027ve never met such a small mind inside such a big head before 😁"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "google": true,
+        "facebook": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "cortanaCommand": {
+    "navigateOrService": "NAVIGATE",
+    "target": ""
+  },
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1508189124811,
+  "fallbackIntent": false,
+  "events": []
+}

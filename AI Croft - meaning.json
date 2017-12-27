@@ -1,0 +1,33 @@
+{
+  "id": "39fb96b8-5a36-4580-bcdf-6b2c4f0d686c",
+  "parentId": "a513b383-7d13-4c26-9bd1-a96373fa5ec8",
+  "rootParentId": "a513b383-7d13-4c26-9bd1-a96373fa5ec8",
+  "name": "AI Croft - meaning",
+  "auto": true,
+  "contexts": [
+    "AICroft-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "AICroft.AICroft-custom",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "A small enclosed Artificial Intelligence field."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1508189124811,
+  "fallbackIntent": false,
+  "events": []
+}

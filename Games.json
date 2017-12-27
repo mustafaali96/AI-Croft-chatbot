@@ -1,0 +1,78 @@
+{
+  "id": "5d4545b2-8a7d-47e1-b15a-2b43a02da476",
+  "name": "Games",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "IQgame-followup",
+          "parameters": {},
+          "lifespan": 2
+        },
+        {
+          "name": "Games-followup",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "simple_response",
+          "platform": "google",
+          "lang": "en",
+          "customizeAudio": true,
+          "textToSpeech": "Which game do you want to play",
+          "displayText": "Which game do you want to play ?"
+        },
+        {
+          "type": "suggestion_chips",
+          "platform": "google",
+          "lang": "en",
+          "suggestions": [
+            {
+              "title": "IQ Questions"
+            },
+            {
+              "title": "Matrix IQ"
+            },
+            {
+              "title": "Rock, Paper, Scissor"
+            }
+          ]
+        },
+        {
+          "type": 2,
+          "platform": "facebook",
+          "lang": "en",
+          "title": "Select any one game",
+          "replies": [
+            "IQ Questions",
+            "Matrix IQ",
+            "Rock, Paper, Scissor"
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Which game you want to play ?\n\"IQ Questions\", \"Matrix IQ\", \"Rock, Paper, Scissor\""
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "cortanaCommand": {
+    "navigateOrService": "NAVIGATE",
+    "target": ""
+  },
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1512279006,
+  "fallbackIntent": false,
+  "events": []
+}

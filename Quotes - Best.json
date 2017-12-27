@@ -1,0 +1,57 @@
+{
+  "id": "c1ef50b2-97c0-4b80-93a4-d0e1f71c1822",
+  "name": "Quotes - Best",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "04e62c92-a592-43f7-bf1c-9a62293f7dce",
+          "required": false,
+          "dataType": "@Quotes",
+          "name": "Quotes",
+          "value": "$Quotes",
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "Topic"
+            }
+          ],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": [
+            "The best preparation for tomorrow is doing your best today. - H. Jackson Brown, Jr.",
+            "Good, better, best. Never let it rest. \u0027Til your good is better and your better is best. - St. Jerome",
+            "One good thing about music, when it hits you, you feel no pain. - Bob Marley",
+            "The good life is one inspired by love and guided by knowledge. - Bertrand Russell",
+            "Good teachers know how to bring out the best in students. - Charles Kuralt"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "facebook": false,
+        "google": true,
+        "skype": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "cortanaCommand": {
+    "navigateOrService": "NAVIGATE",
+    "target": ""
+  },
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1508823308,
+  "fallbackIntent": false,
+  "events": []
+}

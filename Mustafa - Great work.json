@@ -1,0 +1,52 @@
+{
+  "id": "ee7602fa-8367-49ca-853e-023f5043a75b",
+  "parentId": "3409aacb-5630-4ee9-bc6f-eb44327a06fb",
+  "rootParentId": "3409aacb-5630-4ee9-bc6f-eb44327a06fb",
+  "name": "Mustafa - Great work",
+  "auto": true,
+  "contexts": [
+    "Mustafa-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "Mustafa.Mustafa-custom",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 2,
+          "platform": "facebook",
+          "lang": "en",
+          "title": "Check out his profile",
+          "replies": [
+            "Mustafa\u0027s FB profile",
+            "Mustafa\u0027s Github",
+            "Mustafa\u0027s Instagram",
+            "Mustafa\u0027s LinkedIn"
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": [
+            "Sincere thanks",
+            "I appreciate your support.",
+            "Thank you",
+            "appreciate that."
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "facebook": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1508189124811,
+  "fallbackIntent": false,
+  "events": []
+}

@@ -1,0 +1,57 @@
+[
+  {
+    "id": "26f004df-8293-4718-9943-86dae50c4de4",
+    "data": [
+      {
+        "text": "What are the rules ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "88db2448-5596-43a4-ad6f-8dcb10873c66",
+    "data": [
+      {
+        "text": "No",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "bd1bc044-0dd0-437f-a749-2df08b29889d",
+    "data": [
+      {
+        "text": "i don\u0027t know how to play?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "4118728e-a137-4c58-8554-e6dcce78c81f",
+    "data": [
+      {
+        "text": "i don\u0027t know the rules",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "ca897e7d-0ae9-48c3-82a9-6c535ba252f0",
+    "data": [
+      {
+        "text": "Rules ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

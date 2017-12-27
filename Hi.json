@@ -1,0 +1,39 @@
+{
+  "id": "21d2d6a3-f97e-448a-a3eb-5ebae8991a86",
+  "name": "Hi",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": [
+            "Hello, How may i help you?",
+            "Hi, AI Croft is always on your assistance."
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "google": true,
+        "facebook": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "cortanaCommand": {
+    "navigateOrService": "NAVIGATE",
+    "target": ""
+  },
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1509046463,
+  "fallbackIntent": false,
+  "events": []
+}

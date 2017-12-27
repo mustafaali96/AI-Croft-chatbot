@@ -1,0 +1,52 @@
+{
+  "id": "e2d709ae-a09b-44d3-b001-4eb277bf61a1",
+  "parentId": "cd108fb1-a264-401b-a0b6-180a57db241a",
+  "rootParentId": "5d4545b2-8a7d-47e1-b15a-2b43a02da476",
+  "name": "IQ game - IQ Questions - no",
+  "auto": true,
+  "contexts": [
+    "IQgame-IQQuestions-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "IQgame.IQgame-custom.IQgame-IQQuestions-no",
+      "affectedContexts": [
+        {
+          "name": "IQgame-IQQuestions-no-followup",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 2,
+          "platform": "facebook",
+          "lang": "en",
+          "title": "Don\u0027t be afraid",
+          "replies": [
+            "OK let\u0027s play a game",
+            "I\u0027m afraid",
+            "Maybe next time"
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "I know you are strong enough 🙂"
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "facebook": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1508189124745,
+  "fallbackIntent": false,
+  "events": []
+}

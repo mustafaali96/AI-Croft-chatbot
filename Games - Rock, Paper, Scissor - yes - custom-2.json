@@ -1,0 +1,34 @@
+{
+  "id": "df12cca7-d8e8-4932-a392-a3d4649a7947",
+  "parentId": "1d33b4d6-c401-4c11-bcfd-be55bfd9af27",
+  "rootParentId": "5d4545b2-8a7d-47e1-b15a-2b43a02da476",
+  "name": "Games - Rock, Paper, Scissor - yes - custom-2",
+  "auto": true,
+  "contexts": [
+    "Games-RockPaperScissor-yes-followup",
+    "Games-RockPaperScissor-rules-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "Games.Games-custom.Games-RockPaperScissor-yes.Games-RockPaperScissor-yes-custom-2",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1508189124811,
+  "fallbackIntent": false,
+  "events": []
+}

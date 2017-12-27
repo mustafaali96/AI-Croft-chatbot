@@ -1,0 +1,63 @@
+{
+  "id": "e1ad91a5-4513-49a4-a466-a90fda7d83b7",
+  "parentId": "cd108fb1-a264-401b-a0b6-180a57db241a",
+  "rootParentId": "5d4545b2-8a7d-47e1-b15a-2b43a02da476",
+  "name": "IQ game - IQ Questions - 3",
+  "auto": true,
+  "contexts": [
+    "IQgame-IQQuestions-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "IQgame.IQgame-custom.IQgame-IQQuestions-yes-3",
+      "affectedContexts": [
+        {
+          "name": "IQgame-IQQuestions-yes-3-followup",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
+      "parameters": [
+        {
+          "id": "9696ee0f-e496-44ab-a6a8-e1d81ec2cd0b",
+          "required": true,
+          "dataType": "@sys.number",
+          "name": "number",
+          "value": "$number.original",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 2,
+          "platform": "facebook",
+          "lang": "en",
+          "title": "Please enter the missing number: 4, 5, 8, 17, 44, ?",
+          "replies": [
+            "34",
+            "88",
+            "32",
+            "125",
+            "132"
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Please enter the missing number: 4, 5, 8, 17, 44, ?"
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "facebook": false
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1508189124771,
+  "fallbackIntent": false,
+  "events": []
+}

@@ -1,0 +1,105 @@
+{
+  "id": "cd108fb1-a264-401b-a0b6-180a57db241a",
+  "parentId": "5d4545b2-8a7d-47e1-b15a-2b43a02da476",
+  "rootParentId": "5d4545b2-8a7d-47e1-b15a-2b43a02da476",
+  "name": "IQ game - IQ Questions",
+  "auto": true,
+  "contexts": [
+    "IQgame-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "IQgame.IQgame-custom",
+      "affectedContexts": [
+        {
+          "name": "IQgame-IQQuestions-followup",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "simple_response",
+          "platform": "google",
+          "lang": "en",
+          "customizeAudio": true,
+          "textToSpeech": "Great. select any number from 1 to 9 to play IQ Question Game",
+          "displayText": "Great! select any number from 1-9 to play IQ Question Game"
+        },
+        {
+          "type": "suggestion_chips",
+          "platform": "google",
+          "lang": "en",
+          "suggestions": [
+            {
+              "title": "1"
+            },
+            {
+              "title": "2"
+            },
+            {
+              "title": "3"
+            },
+            {
+              "title": "4"
+            },
+            {
+              "title": "5"
+            },
+            {
+              "title": "6"
+            },
+            {
+              "title": "7"
+            },
+            {
+              "title": "8"
+            }
+          ]
+        },
+        {
+          "type": 2,
+          "platform": "facebook",
+          "lang": "en",
+          "title": "Great! select any number to play IQ Question Game",
+          "replies": [
+            "1",
+            "2",
+            "3",
+            "4",
+            "5",
+            "6",
+            "7",
+            "8",
+            "9",
+            "I don\u0027t want to play"
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Great! select any number to play IQ Question Game"
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "1,2,3,4,5,6,7,8,9, I don\u0027t want to play"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "cortanaCommand": {
+    "navigateOrService": "NAVIGATE",
+    "target": ""
+  },
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1508189124811,
+  "fallbackIntent": false,
+  "events": []
+}

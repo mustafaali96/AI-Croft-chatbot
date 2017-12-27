@@ -1,0 +1,115 @@
+[
+  {
+    "id": "e7b99ee1-a62a-4b60-a6f8-e9dcdcbf4f0f",
+    "data": [
+      {
+        "text": "Stop",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1514226861
+  },
+  {
+    "id": "92a76631-9fa3-46a5-9fa1-7a714b1f33c1",
+    "data": [
+      {
+        "text": "exit ",
+        "userDefined": false
+      },
+      {
+        "text": "AI",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Croft bot",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "8f76f561-4aab-4c86-8cc9-7411411a738e",
+    "data": [
+      {
+        "text": "exit ",
+        "userDefined": false
+      },
+      {
+        "text": "artificial intelligence bot",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "0383c434-289a-4ca9-b13d-93161a1ff5e2",
+    "data": [
+      {
+        "text": "don\u0027t reply",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1514226861
+  },
+  {
+    "id": "9d1de6e5-7708-4b16-b1af-6652549d2ff0",
+    "data": [
+      {
+        "text": "Stop texting",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1514226861
+  },
+  {
+    "id": "f02a48c0-b80c-4b89-be73-c723b6949f8e",
+    "data": [
+      {
+        "text": "be quiet",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1514226861
+  },
+  {
+    "id": "744aa9d4-77b2-46d2-a9c3-a80c83544928",
+    "data": [
+      {
+        "text": "shut up",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1514226861
+  },
+  {
+    "id": "57d61939-150d-4c4c-ae16-c58b6a811bb3",
+    "data": [
+      {
+        "text": "Exit",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1514226861
+  }
+]

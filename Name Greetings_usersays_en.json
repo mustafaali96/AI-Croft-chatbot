@@ -1,0 +1,122 @@
+[
+  {
+    "id": "9e54b874-e67d-4f64-8d40-cd90a59f3784",
+    "data": [
+      {
+        "text": "My last name is ",
+        "userDefined": false
+      },
+      {
+        "text": "name",
+        "alias": "PeopleName",
+        "meta": "@PeopleName",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "580fd865-9873-4a41-8570-c2ea0b6ab0e3",
+    "data": [
+      {
+        "text": "i would like you to call me ",
+        "userDefined": false
+      },
+      {
+        "text": "name",
+        "alias": "PeopleName",
+        "meta": "@PeopleName",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "7cd013f7-8128-492a-a56e-f4e870477d80",
+    "data": [
+      {
+        "text": "you can call me ",
+        "userDefined": false
+      },
+      {
+        "text": "name",
+        "alias": "PeopleName",
+        "meta": "@PeopleName",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "43409c32-6924-4658-bd8a-827c0374a060",
+    "data": [
+      {
+        "text": "People call me ",
+        "userDefined": false
+      },
+      {
+        "text": "name",
+        "alias": "PeopleName",
+        "meta": "@PeopleName",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "cfb981e4-bb8c-494c-bac7-2ccca0fcc368",
+    "data": [
+      {
+        "text": "My nickname is ",
+        "userDefined": false
+      },
+      {
+        "text": "name",
+        "alias": "PeopleName",
+        "meta": "@PeopleName",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "ce87aa5e-1f4b-4aa2-b7ba-fb09c20c3156",
+    "data": [
+      {
+        "text": "My nick name is ",
+        "userDefined": false
+      },
+      {
+        "text": "name",
+        "alias": "PeopleName",
+        "meta": "@PeopleName",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "590cbe12-926c-4307-8934-c5e1707aed62",
+    "data": [
+      {
+        "text": "My name is ",
+        "userDefined": false
+      },
+      {
+        "text": "name",
+        "alias": "PeopleName",
+        "meta": "@PeopleName",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1513015332
+  }
+]

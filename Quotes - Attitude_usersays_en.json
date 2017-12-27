@@ -1,0 +1,70 @@
+[
+  {
+    "id": "ead6656c-b36a-4949-9f4f-64f64c0dda48",
+    "data": [
+      {
+        "text": "tell me more ",
+        "userDefined": false
+      },
+      {
+        "text": "attitude quotes",
+        "alias": "Quotes",
+        "meta": "@Quotes",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1504524803
+  },
+  {
+    "id": "aed6d89a-b4c8-456f-a28f-34858390c44f",
+    "data": [
+      {
+        "text": "Any ",
+        "userDefined": false
+      },
+      {
+        "text": "attitude quote",
+        "alias": "Quotes",
+        "meta": "@Quotes",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "59d4668c-2f98-46d7-a1da-c85a76443f9b",
+    "data": [
+      {
+        "text": "tell me an ",
+        "userDefined": false
+      },
+      {
+        "text": "attitude quotes",
+        "alias": "Quotes",
+        "meta": "@Quotes",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "77f80d66-4d34-428e-880d-388f8e8e8f3c",
+    "data": [
+      {
+        "text": "Attitude quotes",
+        "alias": "Quotes",
+        "meta": "@Quotes",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

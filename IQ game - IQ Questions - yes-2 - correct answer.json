@@ -1,0 +1,60 @@
+{
+  "id": "003a8217-4454-4555-805f-ba96d72595bb",
+  "parentId": "68529370-d6c6-4e8d-8a8d-cd5df87967d4",
+  "rootParentId": "5d4545b2-8a7d-47e1-b15a-2b43a02da476",
+  "name": "IQ game - IQ Questions - yes-2 - correct answer",
+  "auto": true,
+  "contexts": [
+    "IQgame-IQQuestions-yes-2-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "IQgame.IQgame-custom.IQgame-IQQuestions-yes-2.IQgame-IQQuestions-yes-2-custom-2",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "909d54a2-0d54-4985-b9b5-9bf5865c63dc",
+          "required": true,
+          "dataType": "@sys.number",
+          "name": "number",
+          "value": "$number.original",
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "Please enter the missing number"
+            }
+          ],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 2,
+          "platform": "facebook",
+          "lang": "en",
+          "title": "Congrats your answer is correct 👍",
+          "replies": [
+            "Play another game",
+            "I\u0027m tired"
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Congrats your answer is correct 👍"
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "facebook": false
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1508189124811,
+  "fallbackIntent": false,
+  "events": []
+}

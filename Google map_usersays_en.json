@@ -1,0 +1,197 @@
+[
+  {
+    "id": "4606f25d-1ad9-4575-93a7-ba577ce01b6c",
+    "data": [
+      {
+        "text": "Search map of ",
+        "userDefined": false
+      },
+      {
+        "text": "Pakistan",
+        "alias": "Countries_cities",
+        "meta": "@Countries_cities",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1513839594
+  },
+  {
+    "id": "d0ed5404-8f50-4190-9c1a-a7dc41e6b5f0",
+    "data": [
+      {
+        "text": "Show ",
+        "userDefined": false
+      },
+      {
+        "text": "Australia",
+        "alias": "Countries_cities",
+        "meta": "@Countries_cities",
+        "userDefined": false
+      },
+      {
+        "text": " map on google",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "895934b8-568e-4f14-95d2-7022a1614531",
+    "data": [
+      {
+        "text": "show ",
+        "userDefined": false
+      },
+      {
+        "text": "world",
+        "alias": "Countries_cities",
+        "meta": "@Countries_cities",
+        "userDefined": true
+      },
+      {
+        "text": " map",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "43c9cd8c-536e-4409-bbd5-b7c88febb620",
+    "data": [
+      {
+        "text": "Show map",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "ce603763-d313-47f9-9861-5447770df511",
+    "data": [
+      {
+        "text": "show ",
+        "userDefined": false
+      },
+      {
+        "text": "USA",
+        "alias": "Countries_cities",
+        "meta": "@Countries_cities",
+        "userDefined": false
+      },
+      {
+        "text": " on google map",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "6c1ecaa7-cee3-4332-a35a-cf18ee75f5c0",
+    "data": [
+      {
+        "text": "Search ",
+        "userDefined": false
+      },
+      {
+        "text": "UK",
+        "alias": "Countries_cities",
+        "meta": "@Countries_cities",
+        "userDefined": false
+      },
+      {
+        "text": " on map",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "d4bb09c2-121e-4c55-b648-1dc770608940",
+    "data": [
+      {
+        "text": "Search ",
+        "userDefined": false
+      },
+      {
+        "text": "street address",
+        "alias": "Countries_cities",
+        "meta": "@Countries_cities",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "5b497fab-5a0c-4cf1-a2dc-4a19fe460787",
+    "data": [
+      {
+        "text": "show map of ",
+        "userDefined": false
+      },
+      {
+        "text": "Dubai",
+        "alias": "Countries_cities",
+        "meta": "@Countries_cities",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "60c2f160-295b-4f89-b41c-523d181ad46e",
+    "data": [
+      {
+        "text": "search location",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1513839594
+  },
+  {
+    "id": "1218b05b-614c-4e9b-80a0-d631a99365c2",
+    "data": [
+      {
+        "text": "Location of ",
+        "userDefined": false
+      },
+      {
+        "text": "Iran",
+        "alias": "Countries_cities",
+        "meta": "@Countries_cities",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1513839594
+  },
+  {
+    "id": "7cf5b905-8485-4fee-a5a0-8c0119f4ded9",
+    "data": [
+      {
+        "text": "show me the map of ",
+        "userDefined": false
+      },
+      {
+        "text": "UK",
+        "alias": "Countries_cities",
+        "meta": "@Countries_cities",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1513839594
+  }
+]

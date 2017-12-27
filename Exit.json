@@ -1,0 +1,60 @@
+{
+  "id": "19029ac7-95e6-4bf9-8ef3-cd42c976aa95",
+  "name": "Exit",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "simple_response",
+          "platform": "google",
+          "lang": "en",
+          "customizeAudio": true,
+          "items": [
+            {
+              "textToSpeech": "See you again",
+              "displayText": "See you again ☺"
+            },
+            {
+              "textToSpeech": "Bye bye",
+              "displayText": "Bye-Bye 👋👋"
+            },
+            {
+              "textToSpeech": "take care",
+              "displayText": "Take care ☺"
+            }
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": [
+            "I wish I could shut up, but I can\u0027t, and I won\u0027t. 😝",
+            "It\u0027s good to shut up sometimes. 😏",
+            "See you again ☺",
+            "Bye-Bye 👋👋",
+            "I won\u0027t..!! Go ahead and kill me if you can 😁 huh i mean destroy me 😂"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "facebook": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "cortanaCommand": {
+    "navigateOrService": "NAVIGATE",
+    "target": ""
+  },
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1514226861,
+  "fallbackIntent": false,
+  "events": []
+}

@@ -1,0 +1,38 @@
+{
+  "id": "3e327396-7dc3-4e06-a0e7-bb438485a22e",
+  "parentId": "e120f936-be0a-4246-a8fa-7021f0089e11",
+  "rootParentId": "5d4545b2-8a7d-47e1-b15a-2b43a02da476",
+  "name": "IQ game - Matrix IQ - no - I\u0027m afraid",
+  "auto": true,
+  "contexts": [
+    "IQgame-MatrixIQ-no-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "IQgame.IQgame-custom.IQgame-MatrixIQ-no.IQgame-MatrixIQ-no-custom",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": [
+            "Come back when you\u0027re ready.",
+            "Maybe you won\u0027t be afraid next time 😉"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "facebook": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1508189124811,
+  "fallbackIntent": false,
+  "events": []
+}

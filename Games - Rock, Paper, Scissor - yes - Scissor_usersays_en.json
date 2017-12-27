@@ -1,0 +1,35 @@
+[
+  {
+    "id": "ce8cb479-126e-426b-aa71-e7a39dc841a2",
+    "data": [
+      {
+        "text": "✂",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "4ac50c1d-ec9a-4eca-9432-91262c2c48d3",
+    "data": [
+      {
+        "text": "Scissor",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "70679bf2-be70-4912-9135-4e1d94cff9f0",
+    "data": [
+      {
+        "text": "Scissor ✂",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

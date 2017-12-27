@@ -1,0 +1,52 @@
+[
+  {
+    "id": "fda5842d-ae3c-481a-8709-6ee3011205ca",
+    "data": [
+      {
+        "text": "show ",
+        "userDefined": false
+      },
+      {
+        "text": "Intelligence quotes",
+        "alias": "Quotes",
+        "meta": "@Quotes",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "9af5e46f-57c9-47d5-af68-5dd0db0d1cf0",
+    "data": [
+      {
+        "text": "tell me an ",
+        "userDefined": false
+      },
+      {
+        "text": "Intelligence quotes",
+        "alias": "Quotes",
+        "meta": "@Quotes",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "3d616fc0-a18b-4c51-91f9-c11ed27bd875",
+    "data": [
+      {
+        "text": "Intelligence quotes",
+        "alias": "Quotes",
+        "meta": "@Quotes",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

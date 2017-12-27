@@ -1,0 +1,392 @@
+[
+  {
+    "value": "name",
+    "synonyms": [
+      "name"
+    ]
+  },
+  {
+    "value": "Marilyn Monroe",
+    "synonyms": [
+      "Marilyn Monroe"
+    ]
+  },
+  {
+    "value": "Abraham Lincoln",
+    "synonyms": [
+      "Abraham Lincoln"
+    ]
+  },
+  {
+    "value": "Mother Teresa",
+    "synonyms": [
+      "Mother Teresa"
+    ]
+  },
+  {
+    "value": "John F. Kennedy",
+    "synonyms": [
+      "John F. Kennedy"
+    ]
+  },
+  {
+    "value": "Martin Luther King",
+    "synonyms": [
+      "Martin Luther King"
+    ]
+  },
+  {
+    "value": "Nelson Mandela",
+    "synonyms": [
+      "Nelson Mandela"
+    ]
+  },
+  {
+    "value": "Winston Churchill",
+    "synonyms": [
+      "Winston Churchill"
+    ]
+  },
+  {
+    "value": "Bill Gates",
+    "synonyms": [
+      "Bill Gates"
+    ]
+  },
+  {
+    "value": "Mahatma Gandhi",
+    "synonyms": [
+      "Mahatma Gandhi"
+    ]
+  },
+  {
+    "value": "Margaret Thatcher",
+    "synonyms": [
+      "Margaret Thatcher"
+    ]
+  },
+  {
+    "value": "Charles de Gaulle",
+    "synonyms": [
+      "Charles de Gaulle"
+    ]
+  },
+  {
+    "value": "Christopher Columbus",
+    "synonyms": [
+      "Christopher Columbus"
+    ]
+  },
+  {
+    "value": "George Orwell",
+    "synonyms": [
+      "George Orwell"
+    ]
+  },
+  {
+    "value": "Charles Darwin",
+    "synonyms": [
+      "Charles Darwin"
+    ]
+  },
+  {
+    "value": "Elvis Presley",
+    "synonyms": [
+      "Elvis Presley"
+    ]
+  },
+  {
+    "value": "Albert Einstein",
+    "synonyms": [
+      "Albert Einstein"
+    ]
+  },
+  {
+    "value": "Paul McCartney",
+    "synonyms": [
+      "Paul McCartney"
+    ]
+  },
+  {
+    "value": "Plato",
+    "synonyms": [
+      "Plato"
+    ]
+  },
+  {
+    "value": "Queen Elizabeth",
+    "synonyms": [
+      "Queen Elizabeth"
+    ]
+  },
+  {
+    "value": "Queen Victoria",
+    "synonyms": [
+      "Queen Victoria"
+    ]
+  },
+  {
+    "value": "John M Keynes",
+    "synonyms": [
+      "John M Keynes"
+    ]
+  },
+  {
+    "value": "Mikhail Gorbachev",
+    "synonyms": [
+      "Mikhail Gorbachev"
+    ]
+  },
+  {
+    "value": "Jawaharlal Nehru",
+    "synonyms": [
+      "Jawaharlal Nehru"
+    ]
+  },
+  {
+    "value": "Leonardo da Vinci",
+    "synonyms": [
+      "Leonardo da Vinci"
+    ]
+  },
+  {
+    "value": "Louis Pasteur",
+    "synonyms": [
+      "Louis Pasteur"
+    ]
+  },
+  {
+    "value": "Leo Tolstoy",
+    "synonyms": [
+      "Leo Tolstoy"
+    ]
+  },
+  {
+    "value": "Pablo Picasso",
+    "synonyms": [
+      "Pablo Picasso"
+    ]
+  },
+  {
+    "value": "Vincent Van Gogh",
+    "synonyms": [
+      "Vincent Van Gogh"
+    ]
+  },
+  {
+    "value": "Franklin D. Roosevelt",
+    "synonyms": [
+      "Franklin D. Roosevelt"
+    ]
+  },
+  {
+    "value": "Pope John Paul II",
+    "synonyms": [
+      "Pope John Paul II"
+    ]
+  },
+  {
+    "value": "Thomas Edison",
+    "synonyms": [
+      "Thomas Edison"
+    ]
+  },
+  {
+    "value": "Rosa Parks",
+    "synonyms": [
+      "Rosa Parks"
+    ]
+  },
+  {
+    "value": "Aung San Suu Kyi",
+    "synonyms": [
+      "Aung San Suu Kyi"
+    ]
+  },
+  {
+    "value": "Lyndon Johnson",
+    "synonyms": [
+      "Lyndon Johnson"
+    ]
+  },
+  {
+    "value": "Ludwig Beethoven",
+    "synonyms": [
+      "Ludwig Beethoven"
+    ]
+  },
+  {
+    "value": "Oprah Winfrey",
+    "synonyms": [
+      "Oprah Winfrey"
+    ]
+  },
+  {
+    "value": "Indira Gandhi",
+    "synonyms": [
+      "Indira Gandhi"
+    ]
+  },
+  {
+    "value": "Eva Peron",
+    "synonyms": [
+      "Eva Peron"
+    ]
+  },
+  {
+    "value": "Benazir Bhutto",
+    "synonyms": [
+      "Benazir Bhutto"
+    ]
+  },
+  {
+    "value": "Desmond Tutu",
+    "synonyms": [
+      "Desmond Tutu"
+    ]
+  },
+  {
+    "value": "Dalai Lama",
+    "synonyms": [
+      "Dalai Lama"
+    ]
+  },
+  {
+    "value": "Walt Disney",
+    "synonyms": [
+      "Walt Disney"
+    ]
+  },
+  {
+    "value": "Neil Armstrong",
+    "synonyms": [
+      "Neil Armstrong"
+    ]
+  },
+  {
+    "value": "Donald Trump",
+    "synonyms": [
+      "Donald Trump"
+    ]
+  },
+  {
+    "value": "Peter Sellers",
+    "synonyms": [
+      "Peter Sellers"
+    ]
+  },
+  {
+    "value": "Barack Obama",
+    "synonyms": [
+      "Barack Obama"
+    ]
+  },
+  {
+    "value": "Malcolm X",
+    "synonyms": [
+      "Malcolm X"
+    ]
+  },
+  {
+    "value": "J.K.Rowling",
+    "synonyms": [
+      "J.K.Rowling"
+    ]
+  },
+  {
+    "value": "Richard Branson",
+    "synonyms": [
+      "Richard Branson"
+    ]
+  },
+  {
+    "value": "Pele",
+    "synonyms": [
+      "Pele"
+    ]
+  },
+  {
+    "value": "Angelina Jolie",
+    "synonyms": [
+      "Angelina Jolie"
+    ]
+  },
+  {
+    "value": "Jesse Owens",
+    "synonyms": [
+      "Jesse Owens"
+    ]
+  },
+  {
+    "value": "Ernest Hemingway",
+    "synonyms": [
+      "Ernest Hemingway"
+    ]
+  },
+  {
+    "value": "John Lennon",
+    "synonyms": [
+      "John Lennon"
+    ]
+  },
+  {
+    "value": "Henry Ford",
+    "synonyms": [
+      "Henry Ford"
+    ]
+  },
+  {
+    "value": "Haile Selassie",
+    "synonyms": [
+      "Haile Selassie"
+    ]
+  },
+  {
+    "value": "Joseph Stalin",
+    "synonyms": [
+      "Joseph Stalin"
+    ]
+  },
+  {
+    "value": "Lord Baden Powell",
+    "synonyms": [
+      "Lord Baden Powell"
+    ]
+  },
+  {
+    "value": "Michael Jordon",
+    "synonyms": [
+      "Michael Jordon"
+    ]
+  },
+  {
+    "value": "muhammad ali Jinnah",
+    "synonyms": [
+      "muhammad ali Jinnah"
+    ]
+  },
+  {
+    "value": "Ahmed",
+    "synonyms": [
+      "Ahmed"
+    ]
+  },
+  {
+    "value": "@sys.last-name:last-name ",
+    "synonyms": [
+      "@sys.last-name:last-name "
+    ]
+  },
+  {
+    "value": "@sys.given-name:given-name",
+    "synonyms": [
+      "@sys.given-name:given-name"
+    ]
+  },
+  {
+    "value": "@name",
+    "synonyms": [
+      "@name"
+    ]
+  }
+]

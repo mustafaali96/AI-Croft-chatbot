@@ -1,0 +1,236 @@
+[
+  {
+    "value": "Daft Punk",
+    "synonyms": [
+      "Daft Punk"
+    ]
+  },
+  {
+    "value": "Eminem",
+    "synonyms": [
+      "Eminem",
+      "God rap"
+    ]
+  },
+  {
+    "value": "Foo Fighters",
+    "synonyms": [
+      "Foo Fighters"
+    ]
+  },
+  {
+    "value": "Lady Gaga",
+    "synonyms": [
+      "Lady Gaga"
+    ]
+  },
+  {
+    "value": "Metallica",
+    "synonyms": [
+      "Metallica"
+    ]
+  },
+  {
+    "value": "Nine Inch Nails",
+    "synonyms": [
+      "Nine Inch Nails",
+      "NIN"
+    ]
+  },
+  {
+    "value": "Oasis",
+    "synonyms": [
+      "Oasis"
+    ]
+  },
+  {
+    "value": "Pink Floyd",
+    "synonyms": [
+      "Pink Floyd"
+    ]
+  },
+  {
+    "value": "Placebo",
+    "synonyms": [
+      "Placebo"
+    ]
+  },
+  {
+    "value": "Queen",
+    "synonyms": [
+      "Queen"
+    ]
+  },
+  {
+    "value": "Red Hot Chili Peppers",
+    "synonyms": [
+      "Red Hot Chili Peppers",
+      "RHCP"
+    ]
+  },
+  {
+    "value": "Rolling Stones",
+    "synonyms": [
+      "Rolling Stones"
+    ]
+  },
+  {
+    "value": "The Beastie Boys",
+    "synonyms": [
+      "The Beastie Boys"
+    ]
+  },
+  {
+    "value": "Tracy Lawrence",
+    "synonyms": [
+      "Tracy Lawrence"
+    ]
+  },
+  {
+    "value": "chainsmokers",
+    "synonyms": [
+      "chainsmokers",
+      "The chainsmokers"
+    ]
+  },
+  {
+    "value": "Bruno Mars",
+    "synonyms": [
+      "Bruno Mars"
+    ]
+  },
+  {
+    "value": "Ed Sheeran",
+    "synonyms": [
+      "Ed Sheeran"
+    ]
+  },
+  {
+    "value": "DJ Khaled",
+    "synonyms": [
+      "DJ Khaled"
+    ]
+  },
+  {
+    "value": "Imagine Dragons",
+    "synonyms": [
+      "Imagine Dragons"
+    ]
+  },
+  {
+    "value": "Atif Aslam",
+    "synonyms": [
+      "Atif Aslam",
+      "Atif"
+    ]
+  },
+  {
+    "value": "Kendrick Lamar",
+    "synonyms": [
+      "Kendrick Lamar"
+    ]
+  },
+  {
+    "value": "Nusrat Fateh Ali khan",
+    "synonyms": [
+      "Nusrat Fateh Ali khan",
+      "NFAK"
+    ]
+  },
+  {
+    "value": "Justin Bieber",
+    "synonyms": [
+      "Justin Bieber"
+    ]
+  },
+  {
+    "value": "Shawn Mendes",
+    "synonyms": [
+      "Shawn Mendes"
+    ]
+  },
+  {
+    "value": "Calvin Harris",
+    "synonyms": [
+      "Calvin Harris"
+    ]
+  },
+  {
+    "value": "Drake",
+    "synonyms": [
+      "Drake"
+    ]
+  },
+  {
+    "value": "Charlie Puth",
+    "synonyms": [
+      "Charlie Puth"
+    ]
+  },
+  {
+    "value": "Selena Gomez",
+    "synonyms": [
+      "Selena Gomez"
+    ]
+  },
+  {
+    "value": "Rihanna",
+    "synonyms": [
+      "Rihanna"
+    ]
+  },
+  {
+    "value": "Alessia Cara",
+    "synonyms": [
+      "Alessia Cara"
+    ]
+  },
+  {
+    "value": "Adele",
+    "synonyms": [
+      "Adele"
+    ]
+  },
+  {
+    "value": "Miley Cyrus",
+    "synonyms": [
+      "Miley Cyrus"
+    ]
+  },
+  {
+    "value": "Taylor Swift",
+    "synonyms": [
+      "Taylor Swift"
+    ]
+  },
+  {
+    "value": "One Direction",
+    "synonyms": [
+      "One Direction"
+    ]
+  },
+  {
+    "value": "Arijit Singh",
+    "synonyms": [
+      "Arijit Singh"
+    ]
+  },
+  {
+    "value": "Chris Brown",
+    "synonyms": [
+      "Chris Brown"
+    ]
+  },
+  {
+    "value": "@sys.given-name:given-name ",
+    "synonyms": [
+      "@sys.given-name:given-name "
+    ]
+  },
+  {
+    "value": "@PeopleName:PeopleName",
+    "synonyms": [
+      "@PeopleName:PeopleName"
+    ]
+  }
+]

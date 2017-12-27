@@ -1,0 +1,32 @@
+[
+  {
+    "value": "Pakistan",
+    "synonyms": [
+      "Pakistan"
+    ]
+  },
+  {
+    "value": "Dubai",
+    "synonyms": [
+      "Dubai"
+    ]
+  },
+  {
+    "value": "@sys.geo-county-gb:geo-county-gb ",
+    "synonyms": [
+      "@sys.geo-county-gb:geo-county-gb "
+    ]
+  },
+  {
+    "value": "@sys.geo-city-gb:geo-city-gb",
+    "synonyms": [
+      "@sys.geo-city-gb:geo-city-gb"
+    ]
+  },
+  {
+    "value": "world",
+    "synonyms": [
+      "world"
+    ]
+  }
+]

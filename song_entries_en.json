@@ -1,0 +1,682 @@
+[
+  {
+    "value": "Angie",
+    "synonyms": [
+      "Angie"
+    ]
+  },
+  {
+    "value": "Best of You",
+    "synonyms": [
+      "Best of You"
+    ]
+  },
+  {
+    "value": "Bohemian Rhapsody",
+    "synonyms": [
+      "Bohemian Rhapsody"
+    ]
+  },
+  {
+    "value": "Closer",
+    "synonyms": [
+      "Closer"
+    ]
+  },
+  {
+    "value": "Comfortably Numb",
+    "synonyms": [
+      "Comfortably Numb"
+    ]
+  },
+  {
+    "value": "Don\u0027t Stop Me Now",
+    "synonyms": [
+      "Don\u0027t Stop Me Now"
+    ]
+  },
+  {
+    "value": "Enter Sandman",
+    "synonyms": [
+      "Enter Sandman"
+    ]
+  },
+  {
+    "value": "Fade to Black",
+    "synonyms": [
+      "Fade to Black"
+    ]
+  },
+  {
+    "value": "Head Like a Hole",
+    "synonyms": [
+      "Head Like a Hole"
+    ]
+  },
+  {
+    "value": "Hey You",
+    "synonyms": [
+      "Hey You"
+    ]
+  },
+  {
+    "value": "High Hopes",
+    "synonyms": [
+      "High Hopes"
+    ]
+  },
+  {
+    "value": "Hurt",
+    "synonyms": [
+      "Hurt"
+    ]
+  },
+  {
+    "value": "I Want To Break Free",
+    "synonyms": [
+      "I Want To Break Free"
+    ]
+  },
+  {
+    "value": "Master of Puppets",
+    "synonyms": [
+      "Master of Puppets"
+    ]
+  },
+  {
+    "value": "Nothing Else Matters",
+    "synonyms": [
+      "Nothing Else Matters"
+    ]
+  },
+  {
+    "value": "Paint It Black",
+    "synonyms": [
+      "Paint It Black"
+    ]
+  },
+  {
+    "value": "Satisfaction",
+    "synonyms": [
+      "Satisfaction"
+    ]
+  },
+  {
+    "value": "Shine On You Crazy Diamond",
+    "synonyms": [
+      "Shine On You Crazy Diamond"
+    ]
+  },
+  {
+    "value": "Shut Up and Dance",
+    "synonyms": [
+      "Shut Up and Dance With Me",
+      "\"Shut Up and Dance\""
+    ]
+  },
+  {
+    "value": "Somebody to Love",
+    "synonyms": [
+      "Somebody to Love"
+    ]
+  },
+  {
+    "value": "Sympathy for the Devil",
+    "synonyms": [
+      "Sympathy for the Devil"
+    ]
+  },
+  {
+    "value": "Terrible Lie",
+    "synonyms": [
+      "Terrible Lie"
+    ]
+  },
+  {
+    "value": "The Hand That Feeds",
+    "synonyms": [
+      "The Hand That Feeds"
+    ]
+  },
+  {
+    "value": "The Perfect Drug",
+    "synonyms": [
+      "The Perfect Drug"
+    ]
+  },
+  {
+    "value": "The Unforgiven",
+    "synonyms": [
+      "The Unforgiven"
+    ]
+  },
+  {
+    "value": "We Will Rock You",
+    "synonyms": [
+      "We Will Rock You"
+    ]
+  },
+  {
+    "value": "Wild Horses",
+    "synonyms": [
+      "Wild Horses"
+    ]
+  },
+  {
+    "value": "Wish You Were Here",
+    "synonyms": [
+      "Wish You Were Here"
+    ]
+  },
+  {
+    "value": "Californication",
+    "synonyms": [
+      "Californication"
+    ]
+  },
+  {
+    "value": "Under the Bridge",
+    "synonyms": [
+      "Under the Bridge"
+    ]
+  },
+  {
+    "value": "Can\u0027t Stop",
+    "synonyms": [
+      "Can\u0027t Stop",
+      "Can t Stop"
+    ]
+  },
+  {
+    "value": "Dark Necessities",
+    "synonyms": [
+      "Dark Necessities"
+    ]
+  },
+  {
+    "value": "Otherside",
+    "synonyms": [
+      "Otherside"
+    ]
+  },
+  {
+    "value": "Every You Every Me",
+    "synonyms": [
+      "Every You Every Me"
+    ]
+  },
+  {
+    "value": "Bitter End",
+    "synonyms": [
+      "Bitter End"
+    ]
+  },
+  {
+    "value": "Running up That Hill",
+    "synonyms": [
+      "Running up That Hill"
+    ]
+  },
+  {
+    "value": "Pure Morning",
+    "synonyms": [
+      "Pure Morning"
+    ]
+  },
+  {
+    "value": "Song to Say Goodbye",
+    "synonyms": [
+      "Song to Say Goodbye"
+    ]
+  },
+  {
+    "value": "Get Lucky",
+    "synonyms": [
+      "Get Lucky"
+    ]
+  },
+  {
+    "value": "One More Time",
+    "synonyms": [
+      "One More Time"
+    ]
+  },
+  {
+    "value": "Harder Better Faster Stronger",
+    "synonyms": [
+      "Harder, Better, Faster, Stronger",
+      "Harder Better Faster Stronger"
+    ]
+  },
+  {
+    "value": "Lose Yourself to Dance",
+    "synonyms": [
+      "Lose Yourself to Dance"
+    ]
+  },
+  {
+    "value": "Instant Crush",
+    "synonyms": [
+      "Instant Crush"
+    ]
+  },
+  {
+    "value": "Bad Romance",
+    "synonyms": [
+      "Bad Romance"
+    ]
+  },
+  {
+    "value": "Poker Face",
+    "synonyms": [
+      "Poker Face"
+    ]
+  },
+  {
+    "value": "Perfect Illusion",
+    "synonyms": [
+      "Perfect Illusion"
+    ]
+  },
+  {
+    "value": "Alejandro",
+    "synonyms": [
+      "Alejandro"
+    ]
+  },
+  {
+    "value": "Born This Way",
+    "synonyms": [
+      "Born This Way"
+    ]
+  },
+  {
+    "value": "Love the Way You Lie",
+    "synonyms": [
+      "Love the Way You Lie"
+    ]
+  },
+  {
+    "value": "Rap God",
+    "synonyms": [
+      "Rap God"
+    ]
+  },
+  {
+    "value": "Lose Yourself",
+    "synonyms": [
+      "Lose Yourself"
+    ]
+  },
+  {
+    "value": "Not Afraid",
+    "synonyms": [
+      "Not Afraid"
+    ]
+  },
+  {
+    "value": "Without Me",
+    "synonyms": [
+      "Without Me"
+    ]
+  },
+  {
+    "value": "Real Hitta",
+    "synonyms": [
+      "Real Hitta"
+    ]
+  },
+  {
+    "value": "It Ain’t My Fault",
+    "synonyms": [
+      "It Ain’t My Fault"
+    ]
+  },
+  {
+    "value": "Subeme La Radio",
+    "synonyms": [
+      "Subeme La Radio"
+    ]
+  },
+  {
+    "value": "Nobody Else But You",
+    "synonyms": [
+      "Nobody Else But You"
+    ]
+  },
+  {
+    "value": "Escapate Conmigo",
+    "synonyms": [
+      "Escapate Conmigo"
+    ]
+  },
+  {
+    "value": "Butterfly Effect",
+    "synonyms": [
+      "Butterfly Effect"
+    ]
+  },
+  {
+    "value": "Woke up like this",
+    "synonyms": [
+      "Woke up like this"
+    ]
+  },
+  {
+    "value": "Do I make you wanna",
+    "synonyms": [
+      "Do I make you wanna"
+    ]
+  },
+  {
+    "value": "Somebody Else Will",
+    "synonyms": [
+      "Somebody Else Will"
+    ]
+  },
+  {
+    "value": "Most Girls",
+    "synonyms": [
+      "Most Girls"
+    ]
+  },
+  {
+    "value": "What Ifs",
+    "synonyms": [
+      "What Ifs"
+    ]
+  },
+  {
+    "value": "Feel It Still",
+    "synonyms": [
+      "Feel It Still"
+    ]
+  },
+  {
+    "value": "My Old Man",
+    "synonyms": [
+      "My Old Man"
+    ]
+  },
+  {
+    "value": "Remider",
+    "synonyms": [
+      "Remider"
+    ]
+  },
+  {
+    "value": "Losin Control",
+    "synonyms": [
+      "Losin Control"
+    ]
+  },
+  {
+    "value": "Thunder",
+    "synonyms": [
+      "Thunder"
+    ]
+  },
+  {
+    "value": "Yours If You Want It",
+    "synonyms": [
+      "Yours If You Want It"
+    ]
+  },
+  {
+    "value": "Cold water",
+    "synonyms": [
+      "Cold",
+      "cold water"
+    ]
+  },
+  {
+    "value": "Scars To Your Beautiful",
+    "synonyms": [
+      "Scars To Your Beautiful"
+    ]
+  },
+  {
+    "value": "In Case You Didn’t Know",
+    "synonyms": [
+      "In Case You Didn’t Know"
+    ]
+  },
+  {
+    "value": "Attention",
+    "synonyms": [
+      "Attention"
+    ]
+  },
+  {
+    "value": "Bad Liar",
+    "synonyms": [
+      "Bad Liar"
+    ]
+  },
+  {
+    "value": "There’s Nothing Holdin’ Me Back",
+    "synonyms": [
+      "There’s Nothing Holdin’ Me Back"
+    ]
+  },
+  {
+    "value": "It Ain’t Me",
+    "synonyms": [
+      "It Ain’t Me"
+    ]
+  },
+  {
+    "value": "Say You Won’t Let Go",
+    "synonyms": [
+      "Say You Won’t Let Go"
+    ]
+  },
+  {
+    "value": "Unforgettable",
+    "synonyms": [
+      "Unforgettable"
+    ]
+  },
+  {
+    "value": "Stay",
+    "synonyms": [
+      "Stay"
+    ]
+  },
+  {
+    "value": "Something Just Like This",
+    "synonyms": [
+      "Something Just Like This"
+    ]
+  },
+  {
+    "value": "Congratulations",
+    "synonyms": [
+      "Congratulations"
+    ]
+  },
+  {
+    "value": "Mask Off",
+    "synonyms": [
+      "Mask Off"
+    ]
+  },
+  {
+    "value": "Humble",
+    "synonyms": [
+      "Humble"
+    ]
+  },
+  {
+    "value": "Shape of you",
+    "synonyms": [
+      "Shape of you"
+    ]
+  },
+  {
+    "value": "Wild Thoughts",
+    "synonyms": [
+      "Wild Thoughts"
+    ]
+  },
+  {
+    "value": "That’s what I like",
+    "synonyms": [
+      "That’s what I like"
+    ]
+  },
+  {
+    "value": "I’m The One",
+    "synonyms": [
+      "I’m The One"
+    ]
+  },
+  {
+    "value": "Despacito",
+    "synonyms": [
+      "Despacito"
+    ]
+  },
+  {
+    "value": "Ye Tumhari Meri Baantein- Rock On",
+    "synonyms": [
+      "Ye Tumhari Meri Baantein- Rock On",
+      "Tumhari meri baantein",
+      "rock on"
+    ]
+  },
+  {
+    "value": "Humnava- Hamari Adhuri Kahani",
+    "synonyms": [
+      "Humnava- Hamari Adhuri Kahani",
+      "Humnava",
+      "Hamari adhuri kahani"
+    ]
+  },
+  {
+    "value": "Khul Kabhi To",
+    "synonyms": [
+      "Khul Kabhi To",
+      "Haider"
+    ]
+  },
+  {
+    "value": "wajah Tum Ho",
+    "synonyms": [
+      "wajah Tum Ho"
+    ]
+  },
+  {
+    "value": "Dekha Hazaro Dafaa",
+    "synonyms": [
+      "Dekha Hazaro Dafaa",
+      "Rustam"
+    ]
+  },
+  {
+    "value": "Main Agar- Tubelight",
+    "synonyms": [
+      "Main Agar- Tubelight",
+      "Main Agar",
+      "tubelight"
+    ]
+  },
+  {
+    "value": "Phir Bhi Tumko Chaahunga-Half Girlfriend",
+    "synonyms": [
+      "Phir Bhi Tumko Chaahunga-Half Girlfriend",
+      "Main Phir Bhi tumko chahunga",
+      "half girlfriend"
+    ]
+  },
+  {
+    "value": "Thodi der- half girlfriend",
+    "synonyms": [
+      "Thodi der",
+      "Thori dair aur ruk ja"
+    ]
+  },
+  {
+    "value": "Baarish - half girlfriend",
+    "synonyms": [
+      "Baarish - half girlfriend"
+    ]
+  },
+  {
+    "value": "Raabta-Arjit Singh",
+    "synonyms": [
+      "Raabta-Arjit Singh",
+      "Raabta"
+    ]
+  },
+  {
+    "value": "Pehli Dafa – Atif Aslam",
+    "synonyms": [
+      "Pehli Dafa – Atif Aslam",
+      "Pheli dafa"
+    ]
+  },
+  {
+    "value": "Bol Do Na Zara- Azhar",
+    "synonyms": [
+      "Bol Do Na Zara- Azhar"
+    ]
+  },
+  {
+    "value": "Ijazat – One Night Stand",
+    "synonyms": [
+      "Ijazat – One Night Stand"
+    ]
+  },
+  {
+    "value": "Itni Si Baat – Azhar",
+    "synonyms": [
+      "Itni Si Baat – Azhar",
+      "Itnu si baat"
+    ]
+  },
+  {
+    "value": "Sanam Re",
+    "synonyms": [
+      "Sanam Re"
+    ]
+  },
+  {
+    "value": "Agar Tum Sath Ho- Tamasha",
+    "synonyms": [
+      "Agar Tum Sath Ho- Tamasha",
+      "Agar tum sath ho"
+    ]
+  },
+  {
+    "value": "Tum Hi Ho- Ashiqui 2",
+    "synonyms": [
+      "Tum Hi Ho- Ashiqui 2",
+      "Tum hi ho"
+    ]
+  },
+  {
+    "value": "Baatein ye kabhi na",
+    "synonyms": [
+      "Baatein ye kabhi na"
+    ]
+  },
+  {
+    "value": "Trending",
+    "synonyms": [
+      "Trending"
+    ]
+  },
+  {
+    "value": "Faded",
+    "synonyms": [
+      "Faded"
+    ]
+  },
+  {
+    "value": "@sys.given-name:given-name ",
+    "synonyms": [
+      "@sys.given-name:given-name "
+    ]
+  }
+]

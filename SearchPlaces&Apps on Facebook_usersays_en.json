@@ -1,0 +1,144 @@
+[
+  {
+    "id": "5b866063-f79e-4050-818c-627c096825f0",
+    "data": [
+      {
+        "text": "find the location of ",
+        "userDefined": false
+      },
+      {
+        "text": "name",
+        "alias": "PeopleName",
+        "meta": "@PeopleName",
+        "userDefined": true
+      },
+      {
+        "text": " on facebook",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1513319416
+  },
+  {
+    "id": "2420dcb4-6394-43f5-9716-bbdc4b8e5a3f",
+    "data": [
+      {
+        "text": "location",
+        "alias": "PeopleName",
+        "meta": "@PeopleName",
+        "userDefined": false
+      },
+      {
+        "text": " on facebook",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1513319416
+  },
+  {
+    "id": "84eb4a58-71b6-4141-9ce9-b87811a6500c",
+    "data": [
+      {
+        "text": "name",
+        "alias": "PeopleName",
+        "meta": "@PeopleName",
+        "userDefined": false
+      },
+      {
+        "text": " app on facebook",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1513319416
+  },
+  {
+    "id": "a12de5e6-81f9-428f-b83e-bf4c706ffb9a",
+    "data": [
+      {
+        "text": "facebook apps",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1513319416
+  },
+  {
+    "id": "a2ee4a22-5ae0-4b97-864e-df2420838d87",
+    "data": [
+      {
+        "text": "facebook location",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1513319416
+  },
+  {
+    "id": "42f91264-ff8f-4e2a-b435-9faf2a42e370",
+    "data": [
+      {
+        "text": "help me find a location on facebook",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 1513319416
+  },
+  {
+    "id": "08fcb94b-d408-4005-94e8-af58a4c75e94",
+    "data": [
+      {
+        "text": "find place on facebook",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1513319416
+  },
+  {
+    "id": "5f53803b-9af6-4876-b61c-e9b697e04888",
+    "data": [
+      {
+        "text": "search apps on facebook",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1513319416
+  },
+  {
+    "id": "0d9e8bf4-62ef-429c-bf5f-08e1c11784c8",
+    "data": [
+      {
+        "text": "Apps",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1513319416
+  },
+  {
+    "id": "ba0d1dcc-e28c-4685-a3bb-bc568f6c9c30",
+    "data": [
+      {
+        "text": "Places",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1513319416
+  }
+]

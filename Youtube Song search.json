@@ -1,0 +1,70 @@
+{
+  "id": "49ab3c93-3d48-42cc-b599-991c94e9da4e",
+  "name": "Youtube Song search",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "YoutubeSongsearch-followup",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
+      "parameters": [
+        {
+          "id": "1c8f4ff8-e530-4b18-8eb9-4832dd337e7f",
+          "required": false,
+          "dataType": "@Youtube",
+          "name": "Youtube",
+          "value": "$Youtube",
+          "prompts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 2,
+          "platform": "facebook",
+          "lang": "en",
+          "title": "We only provide link of youtube songs. Do you want to listen it on youtube ?",
+          "replies": [
+            "Yes",
+            "No"
+          ]
+        },
+        {
+          "type": "link_out_chip",
+          "platform": "google",
+          "lang": "en",
+          "destinationName": "Youtube $song",
+          "url": "https://www.youtube.com/results?search_query\u003d$song"
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "We only provide link of youtube songs. Do you want to listen it on youtube ?"
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "google": false,
+        "slack": false,
+        "facebook": false
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "cortanaCommand": {
+    "navigateOrService": "NAVIGATE",
+    "target": ""
+  },
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1508567870,
+  "fallbackIntent": false,
+  "events": []
+}

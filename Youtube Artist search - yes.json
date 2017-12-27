@@ -1,0 +1,62 @@
+{
+  "id": "2819bc47-2562-4867-96e2-a57ad4a451e1",
+  "parentId": "c0e6c0cb-17ef-4253-8a2b-d6fc4a34f947",
+  "rootParentId": "c0e6c0cb-17ef-4253-8a2b-d6fc4a34f947",
+  "name": "Youtube Artist search - yes",
+  "auto": true,
+  "contexts": [
+    "YoutubeArtistsearch-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "YoutubeArtistsearch.YoutubeArtistsearch-yes",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "26fa7e22-5929-4a4b-a007-28f766539601",
+          "required": true,
+          "dataType": "@artist",
+          "name": "artist",
+          "value": "$artist",
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "Name of artist?"
+            }
+          ],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 1,
+          "platform": "facebook",
+          "lang": "en",
+          "title": "$artist",
+          "subtitle": "Youtube",
+          "imageUrl": "https://cdn.vox-cdn.com/thumbor/SfyqZw6l_jidAYdkqYEis-Omdho\u003d/0x0:1680x1050/1200x675/filters:focal(706x391:974x659):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/56414327/YTLogo_old_new_animation.0.gif",
+          "buttons": [
+            {
+              "text": "$artist",
+              "postback": "https://www.youtube.com/results?search_query\u003d$artist"
+            }
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "$artist songs list: https://www.youtube.com/results?search_query\u003d$artist"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1508822968,
+  "fallbackIntent": false,
+  "events": []
+}

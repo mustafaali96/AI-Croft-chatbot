@@ -1,0 +1,43 @@
+{
+  "id": "3c072b74-c7dd-4ad0-83c6-1ef09b76ccfa",
+  "name": "Smilies",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": [
+            "😃",
+            "😁",
+            "😄",
+            "😊",
+            "😄",
+            "😆",
+            "😉",
+            "😜"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "facebook": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "cortanaCommand": {
+    "navigateOrService": "NAVIGATE",
+    "target": ""
+  },
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1509217339,
+  "fallbackIntent": false,
+  "events": []
+}

@@ -1,0 +1,82 @@
+{
+  "id": "585dd761-eea4-40d3-854e-3255b6ef2fe8",
+  "name": "SearchPlaces\u0026Apps on Facebook",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "6f2ecacf-615c-4704-9e0e-1006cf6b06a0",
+          "required": true,
+          "dataType": "@PeopleName",
+          "name": "PeopleName",
+          "value": "$PeopleName",
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "Enter the name of App/Place you want to search"
+            }
+          ],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 1,
+          "platform": "facebook",
+          "lang": "en",
+          "title": "$PeopleName",
+          "subtitle": "Facebook search",
+          "imageUrl": "https://scdn.androidcommunity.com/wp-content/uploads/2016/06/Evie-cover.jpg",
+          "buttons": [
+            {
+              "text": "Show all result"
+            },
+            {
+              "text": "Apps",
+              "postback": "https://www.facebook.com/search/apps/?q\u003d$PeopleName"
+            },
+            {
+              "text": "Places",
+              "postback": "https://www.facebook.com/search/str/$PeopleName/keywords_places/"
+            }
+          ]
+        },
+        {
+          "type": 2,
+          "platform": "facebook",
+          "lang": "en",
+          "title": "You can also search",
+          "replies": [
+            "Events",
+            "Groups",
+            "Pages",
+            "Peoples",
+            "Photos",
+            "Posts"
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Here is the link:\nhttps://www.facebook.com/search/top/?q\u003d$PeopleName"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "cortanaCommand": {
+    "navigateOrService": "NAVIGATE",
+    "target": ""
+  },
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1513319416,
+  "fallbackIntent": false,
+  "events": []
+}

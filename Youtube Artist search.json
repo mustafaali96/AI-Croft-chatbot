@@ -1,0 +1,59 @@
+{
+  "id": "c0e6c0cb-17ef-4253-8a2b-d6fc4a34f947",
+  "name": "Youtube Artist search",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "YoutubeArtistsearch-followup",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
+      "parameters": [
+        {
+          "id": "d9788026-c052-4a52-bc37-5d259e9f406c",
+          "dataType": "@Youtube",
+          "name": "Youtube",
+          "value": "$Youtube",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 2,
+          "platform": "facebook",
+          "lang": "en",
+          "title": "We only provide links of youtube. Do you want to search artist it on youtube ?",
+          "replies": [
+            "Yes",
+            "No"
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "We only provide links of youtube. Do you want to search artist it on youtube ?"
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "google": false,
+        "facebook": false
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "cortanaCommand": {
+    "navigateOrService": "NAVIGATE",
+    "target": ""
+  },
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1508822923,
+  "fallbackIntent": false,
+  "events": []
+}

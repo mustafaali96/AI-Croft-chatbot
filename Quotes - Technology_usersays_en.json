@@ -1,0 +1,66 @@
+[
+  {
+    "id": "26483edb-d59d-4649-b873-906fa70fd9d6",
+    "data": [
+      {
+        "text": "tech quotes",
+        "alias": "Quotes",
+        "meta": "@Quotes",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1504371840
+  },
+  {
+    "id": "2e031b07-9dce-4f7d-ac09-65794098b4f2",
+    "data": [
+      {
+        "text": "Any ",
+        "userDefined": false
+      },
+      {
+        "text": "technology quotes",
+        "alias": "Quotes",
+        "meta": "@Quotes",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1504357337
+  },
+  {
+    "id": "e1002604-ca33-4d77-8540-5c9f978d22d0",
+    "data": [
+      {
+        "text": "technology quotes",
+        "alias": "Quotes",
+        "meta": "@Quotes",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "511b5964-40a3-4b51-9347-3cbcd0cd4a5e",
+    "data": [
+      {
+        "text": "Tell me some ",
+        "userDefined": false
+      },
+      {
+        "text": "technology quotes",
+        "alias": "Quotes",
+        "meta": "@Quotes",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

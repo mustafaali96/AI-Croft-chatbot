@@ -1,0 +1,39 @@
+{
+  "id": "02b503fc-0cce-45aa-816e-40235e2cbf56",
+  "parentId": "c0e6c0cb-17ef-4253-8a2b-d6fc4a34f947",
+  "rootParentId": "c0e6c0cb-17ef-4253-8a2b-d6fc4a34f947",
+  "name": "Youtube Artist search - no",
+  "auto": true,
+  "contexts": [
+    "YoutubeArtistsearch-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "YoutubeArtistsearch.YoutubeArtistsearch-no",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": [
+            "OK no issue",
+            "Fine",
+            "As you wish."
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "facebook": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1509135625,
+  "fallbackIntent": false,
+  "events": []
+}

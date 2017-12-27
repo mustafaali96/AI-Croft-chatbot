@@ -1,0 +1,38 @@
+{
+  "id": "aa0a57c4-ea1d-429d-acd5-eeedf429cd7c",
+  "name": "Specialization",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": [
+            "Why don\u0027t you ask me to look up a quotes?",
+            "Why don\u0027t you ask me for a joke?",
+            "We can play iq game if you ask for it.",
+            "Why don\u0027t you ask me to look up for a song on youtube?",
+            "Ask me to tell you something interesting"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "cortanaCommand": {
+    "navigateOrService": "NAVIGATE",
+    "target": ""
+  },
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1509128400,
+  "fallbackIntent": false,
+  "events": []
+}

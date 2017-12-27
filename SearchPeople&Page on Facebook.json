@@ -1,0 +1,85 @@
+{
+  "id": "ae2813f6-c6c1-4f8b-adbf-bc42415e993e",
+  "name": "SearchPeople\u0026Page on Facebook",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "96d1e551-d4a4-4877-bf98-e55bc9b39421",
+          "required": true,
+          "dataType": "@PeopleName",
+          "name": "PeopleName",
+          "value": "$PeopleName",
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "Enter the name of page/person you want to search"
+            }
+          ],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 1,
+          "platform": "facebook",
+          "lang": "en",
+          "title": "$PeopleName",
+          "subtitle": "Facebook search",
+          "imageUrl": "https://marketingland.com/wp-content/ml-loads/2016/05/facebook-audience-users-crowd-ss-1920.jpg",
+          "buttons": [
+            {
+              "text": "Show all result",
+              "postback": "https://www.facebook.com/search/top/?q\u003d$PeopleName"
+            },
+            {
+              "text": "Peoples",
+              "postback": "https://www.facebook.com/search/people/?q\u003d$PeopleName"
+            },
+            {
+              "text": "Pages",
+              "postback": "https://www.facebook.com/search/pages/?q\u003d$PeopleName"
+            }
+          ]
+        },
+        {
+          "type": 2,
+          "platform": "facebook",
+          "lang": "en",
+          "title": "You can also search",
+          "replies": [
+            "Apps",
+            "Events",
+            "Groups",
+            "Photos",
+            "Places",
+            "Posts"
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "here is the link: \nhttps://www.facebook.com/search/top/?q\u003d $PeopleName"
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "facebook": false
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "cortanaCommand": {
+    "navigateOrService": "NAVIGATE",
+    "target": ""
+  },
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1513306643,
+  "fallbackIntent": false,
+  "events": []
+}

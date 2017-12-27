@@ -1,0 +1,62 @@
+[
+  {
+    "id": "c496d22e-cc84-4317-9b42-df8420a26c0d",
+    "data": [
+      {
+        "text": "sci fi information",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "04c179bd-d915-4d8e-a4f5-dd98731b3cfa",
+    "data": [
+      {
+        "text": "sci tech news",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e4415681-3534-48e8-a2a9-24adda570936",
+    "data": [
+      {
+        "text": "interesting facts",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "7c929c31-a6b5-4c16-be61-b29ade1311c7",
+    "data": [
+      {
+        "text": "tell me something interesting",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "3f933be2-ad4c-436d-8066-6b8a47bec1b3",
+    "data": [
+      {
+        "text": "tell me some sci-fi trivia",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

@@ -1,0 +1,77 @@
+{
+  "id": "d72e31f2-3830-4d2e-960f-bb30ff49f214",
+  "name": "Quotes - Technology",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "bc7fb0ef-a03f-47bb-bfcb-268b8d57621c",
+          "required": false,
+          "dataType": "@Quotes",
+          "name": "Quotes",
+          "value": "$Quotes",
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "Topic"
+            }
+          ],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": [
+            "Any sufficiently advanced technology is indistinguishable from magic. ― Arthur C. Clarke",
+            "The science of today is the technology of tomorrow. ― Edward Teller",
+            "People who are really serious about software should make their own hardware. ― Alan Kay",
+            "It has become appallingly obvious that our technology has exceeded our humanity. ― Albert Einstein",
+            "Technology is a useful servant but a dangerous master. ― Christian Lous Lange",
+            "It\u0027s not a faith in technology. It\u0027s faith in people. ― Steve Jobs",
+            "Technology is teaching us to be human again. ― Simon Mainwaring",
+            "The Linux philosophy is \u0027Laugh in the face of danger\u0027. Oops. Wrong One. \u0027Do it yourself\u0027. Yes, that\u0027s it. ― Linus Torvalds",
+            "Virtual reality is a technology that could actually allow you to connect on a real human level, soul-to-soul, regardless of where you are in the world. ― Chris Milk",
+            "You never change things by fighting the existing reality.\nTo change something, build a new model that makes the existing model obsolete. ― R. Buckminster Fuller",
+            "The art challenges the technology, and the technology inspires the art. ― John Lasseter",
+            "Any sufficiently advanced technology is indistinguishable from magic. ― Arthur C. Clarke",
+            "First we thought the PC was a calculator. Then we found out how to turn numbers into letters with ASCII — and we thought it was a typewriter. Then we discovered graphics, and we thought it was a television. With the World Wide Web, we\u0027ve realized it\u0027s a brochure. ― Douglas Adams",
+            "It\u0027s still magic even if you know how it\u0027s done. ― Terry Pratchett, A Hat Full of Sky",
+            "We are stuck with technology when what we really want is just stuff that works. ― Douglas Adams",
+            "V-Day…if you need this one day in a year to show everyone else you truly care for “your loved one” I think it’s quite stupid. I hate this commercialism. It’s all artificial, and has nothing to do with real love. ― Jess C. Scott",
+            "Please, no matter how we advance technologically, please don\u0027t abandon the book. There is nothing in our material world more beautiful than the book. ― Patti Smith",
+            "My head’ll explode if I continue with this escapism. ― Jess C. Scott",
+            "There will come a time when it isn\u0027t \u0027They\u0027re spying on me through my phone\u0027 anymore. Eventually, it will be \u0027My phone is spying on me\u0027. ― Philip K. Dick",
+            "A CD. How quaint. We have these in museums. ― Eoin Colfer",
+            "Maybe you could be mine, or maybe we’ll be entwined, aimless in this sexless foreplay. ― Jess C. Scott",
+            "Computers are useless. They can only give you answers. ― Pablo Picasso",
+            "Technological progress has merely provided us with more efficient means for going backwards. ― Aldous Huxley",
+            "It\u0027s supposed to be automatic, but actually you have to push this button.  ― John Brunner",
+            "Books don\u0027t need batteries. ― Nadine Gordimer",
+            "As cities grow and technology takes over the world belief and imagination fade away and so do we. ― Julie Kagawa",
+            "Ethics change with technology. ― Larry Niven"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "facebook": false
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "cortanaCommand": {
+    "navigateOrService": "NAVIGATE",
+    "target": ""
+  },
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1508823554,
+  "fallbackIntent": false,
+  "events": []
+}

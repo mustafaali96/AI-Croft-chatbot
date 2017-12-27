@@ -1,0 +1,82 @@
+[
+  {
+    "id": "c71d0a79-e0e2-418e-9228-041970624344",
+    "data": [
+      {
+        "text": "Search a song on ",
+        "userDefined": false
+      },
+      {
+        "text": "youtube",
+        "alias": "Youtube",
+        "meta": "@Youtube",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "b631d4e1-56a5-492f-a2df-69d9dd7af83f",
+    "data": [
+      {
+        "text": "play a song",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1508212462
+  },
+  {
+    "id": "45899dbf-6e32-41e8-a238-7c521b3bb1e3",
+    "data": [
+      {
+        "text": "Play ",
+        "userDefined": false
+      },
+      {
+        "text": "youtube",
+        "alias": "Youtube",
+        "meta": "@Youtube",
+        "userDefined": false
+      },
+      {
+        "text": " song",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1508212462
+  },
+  {
+    "id": "96318d09-3b8f-4580-8cf7-c762b2c5a0eb",
+    "data": [
+      {
+        "text": "Search a ",
+        "userDefined": false
+      },
+      {
+        "text": "song",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1500442981
+  },
+  {
+    "id": "697b661b-f382-4c9f-80c8-5a43818eef4b",
+    "data": [
+      {
+        "text": "Help me find a song",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1508212462
+  }
+]

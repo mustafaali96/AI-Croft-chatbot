@@ -1,0 +1,141 @@
+[
+  {
+    "id": "61046dc9-63ab-4c25-90e7-44a2b8c9a442",
+    "data": [
+      {
+        "text": "look up for ",
+        "userDefined": false
+      },
+      {
+        "text": "quotes",
+        "alias": "Quotes",
+        "meta": "@Quotes",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "c8778ee8-edaf-4ba0-9607-b495871b5457",
+    "data": [
+      {
+        "text": " look up a ",
+        "userDefined": false
+      },
+      {
+        "text": "quotes",
+        "alias": "Quotes",
+        "meta": "@Quotes",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1509115729
+  },
+  {
+    "id": "45441a60-d471-4046-b748-ed8be62a43a9",
+    "data": [
+      {
+        "text": "wanna hear a ",
+        "userDefined": false
+      },
+      {
+        "text": "quote",
+        "alias": "Quotes",
+        "meta": "@Quotes",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1508690509
+  },
+  {
+    "id": "42d710bf-7040-4401-8b39-2823c55ac883",
+    "data": [
+      {
+        "text": "i want ",
+        "userDefined": false
+      },
+      {
+        "text": "quote",
+        "alias": "Quotes",
+        "meta": "@Quotes",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1508690509
+  },
+  {
+    "id": "358fdb6b-6955-4262-b415-e3a8a5f2d7c5",
+    "data": [
+      {
+        "text": "more ",
+        "userDefined": false
+      },
+      {
+        "text": "quotes",
+        "alias": "Quotes",
+        "meta": "@Quotes",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1508690396
+  },
+  {
+    "id": "f4887c68-6959-45f6-a114-e9c29bf9b797",
+    "data": [
+      {
+        "text": "tell me more ",
+        "userDefined": false
+      },
+      {
+        "text": "quotes",
+        "alias": "Quotes",
+        "meta": "@Quotes",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1504276498
+  },
+  {
+    "id": "1bd0c32a-949d-4790-8354-4edddf4ca410",
+    "data": [
+      {
+        "text": "Quotes",
+        "alias": "Quotes",
+        "meta": "@Quotes",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1508690396
+  },
+  {
+    "id": "f8d6f176-ef4a-4113-afcb-2a51cae6f95f",
+    "data": [
+      {
+        "text": "Tell me a ",
+        "userDefined": false
+      },
+      {
+        "text": "quote",
+        "alias": "Quotes",
+        "meta": "@Quotes",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1504210857
+  }
+]

@@ -1,0 +1,50 @@
+{
+  "id": "532e8bbe-6a78-4ff9-80f2-86fae5806004",
+  "name": "Sci-fi trivia",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": [
+            "Lieutenant Uhura\u0027s name means \"freedom\" in Swahili.",
+            "Khan\u0027s men in Star Trek II: The Wrath of Khan were played by Chippendale dancers.",
+            "Yoda\u0027s likeness was based in part on Albert Einstein.",
+            "Pat Welsh, the actor who did the voice of Boushh in The Return of the Jedi, also did the voice of E.T.",
+            "Lin-Manuel Miranda, the creator of the musical Hamilton, co-wrote the music for the cantina scene in The Force Awakens.",
+            "Danger Will Robinson\" is from \"Lost in Space\".",
+            "In the first chapter of his 1948 novel Space Cadet, Robert Heinlein predicted mobile phone technology.",
+            "The annual awards at the World Science Fiction Convention are called the “Hugos” after Hugo Gernsback, founder of Amazing Stories in 1926.",
+            "In 1939, Stanton A. Coblentz wrote a science-fiction novel called Planet of the Knob Heads.",
+            "The word ‘spaceship’ dates back to 1880.",
+            "There is a species of spider called the Hobo Spider.",
+            "People say \"Bless you\" when you sneeze because when you sneeze,your heart stops for a millisecond.",
+            "If you sneeze too hard, you can fracture a rib.",
+            "If you went out into space, you would explode before you suffocated because there\u0027s no air pressure.",
+            "Sterling silver is not pure silver. Because pure silver is too soft to be used in most tableware it is mixed with copper in the proportion of 92.5 percent silver to 7.5 percent copper.",
+            "Chewing gum while peeling onions will keep you from crying!",
+            "You can’t kill yourself by holding your breath"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "cortanaCommand": {
+    "navigateOrService": "NAVIGATE",
+    "target": ""
+  },
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1508686124,
+  "fallbackIntent": false,
+  "events": []
+}

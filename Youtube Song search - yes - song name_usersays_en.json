@@ -1,0 +1,98 @@
+[
+  {
+    "id": "ca753ca4-068d-4647-8f21-f15a27161bd9",
+    "data": [
+      {
+        "text": "Best of you",
+        "alias": "song",
+        "meta": "@song",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1509137486
+  },
+  {
+    "id": "6d9cefa7-6a06-4338-b80e-f004f5627ed3",
+    "data": [
+      {
+        "text": "Lose Yourself",
+        "alias": "song",
+        "meta": "@song",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1509137486
+  },
+  {
+    "id": "d9502bd7-c110-4c1e-877b-8c4207f7de47",
+    "data": [
+      {
+        "text": "find ",
+        "userDefined": false
+      },
+      {
+        "text": "song",
+        "alias": "song",
+        "meta": "@song",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1509136343
+  },
+  {
+    "id": "f2822cef-6802-47a2-8d10-97a16634a20c",
+    "data": [
+      {
+        "text": "search ",
+        "userDefined": false
+      },
+      {
+        "text": "song",
+        "alias": "song",
+        "meta": "@song",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1509136343
+  },
+  {
+    "id": "f41ff151-feb6-4c06-a7dd-f197d7cf6c4e",
+    "data": [
+      {
+        "text": "trending",
+        "alias": "song",
+        "meta": "@song",
+        "userDefined": false
+      },
+      {
+        "text": " song",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1509136343
+  },
+  {
+    "id": "87c90b58-7b1c-4e93-8ed9-2cae498fdce1",
+    "data": [
+      {
+        "text": "Song",
+        "alias": "song",
+        "meta": "@song",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1509136343
+  }
+]

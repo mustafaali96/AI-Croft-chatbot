@@ -1,0 +1,83 @@
+{
+  "id": "f4c3319d-9a5f-4892-8f9f-0bddd2929c49",
+  "name": "SearchEvent\u0026Groups on Facebook",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "7f044a4f-6916-4f77-9a6c-86d3a5afa9c3",
+          "required": true,
+          "dataType": "@PeopleName",
+          "name": "PeopleName",
+          "value": "$PeopleName",
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "Enter the name of Event/Group you want to search"
+            }
+          ],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 1,
+          "platform": "facebook",
+          "lang": "en",
+          "title": "$PeopleName",
+          "subtitle": "Facebook search",
+          "imageUrl": "https://neilpatel.com/wp-content/uploads/2017/03/fbgroup.png",
+          "buttons": [
+            {
+              "text": "Show all result",
+              "postback": "https://www.facebook.com/search/top/?q\u003d $PeopleName"
+            },
+            {
+              "text": "Events",
+              "postback": "https://www.facebook.com/search/events/?q\u003d$PeopleName"
+            },
+            {
+              "text": "Groups",
+              "postback": "https://www.facebook.com/search/groups/?q\u003d$PeopleName"
+            }
+          ]
+        },
+        {
+          "type": 2,
+          "platform": "facebook",
+          "lang": "en",
+          "title": "You can also search",
+          "replies": [
+            "Apps",
+            "Pages",
+            "Peoples",
+            "Photos",
+            "Places",
+            "Posts"
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "here is the link: \nhttps://www.facebook.com/search/top/?q\u003d$PeopleName"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "cortanaCommand": {
+    "navigateOrService": "NAVIGATE",
+    "target": ""
+  },
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1513316298,
+  "fallbackIntent": false,
+  "events": []
+}

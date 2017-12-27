@@ -1,0 +1,67 @@
+[
+  {
+    "id": "b2644894-7e9b-4b82-a48e-449d979ba0b6",
+    "data": [
+      {
+        "text": "search singer on ",
+        "userDefined": false
+      },
+      {
+        "text": "youtube",
+        "alias": "Youtube",
+        "meta": "@Youtube",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "20d4ebb4-7b55-4530-995e-feaf6613b83e",
+    "data": [
+      {
+        "text": "Help me find an artist",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1504013960
+  },
+  {
+    "id": "46a9f9f3-359a-4afc-aa02-500fdcb2738a",
+    "data": [
+      {
+        "text": "Search an artist on youtube",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1503983242
+  },
+  {
+    "id": "21c32216-a3cb-46e1-8a72-34ca3b5f7908",
+    "data": [
+      {
+        "text": "youtube artist",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1508822923
+  },
+  {
+    "id": "23ff9b6b-dd24-4aea-841b-f85d96c394a2",
+    "data": [
+      {
+        "text": "Search artist",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1503983242
+  }
+]

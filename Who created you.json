@@ -1,0 +1,38 @@
+{
+  "id": "d69b4336-4b3a-414e-b74c-9a240d228576",
+  "name": "Who created you",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": [
+            "While I can\u0027t give details, let me assure you, humans are involved.",
+            "I\u0027m the direct result of thousands and thousands of years of evolving, creative imagination."
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "facebook": true,
+        "google": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "cortanaCommand": {
+    "navigateOrService": "NAVIGATE",
+    "target": ""
+  },
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1500580010,
+  "fallbackIntent": false,
+  "events": []
+}

@@ -1,0 +1,232 @@
+[
+  {
+    "id": "6f8914ef-c619-4924-8d54-0b59e77643d4",
+    "data": [
+      {
+        "text": "Photos",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "dffc2814-190e-4248-9cb9-5d5a18966b4d",
+    "data": [
+      {
+        "text": "Posts",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "a01a8dd8-81df-415a-af03-66baec339a03",
+    "data": [
+      {
+        "text": "find pic on facebook",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1513318770
+  },
+  {
+    "id": "eb127b3a-8194-462f-92fe-4ef47f865b12",
+    "data": [
+      {
+        "text": "search picture on facebook",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1513318770
+  },
+  {
+    "id": "f0d3553a-606d-4369-8137-68ae5d6b9b5b",
+    "data": [
+      {
+        "text": "search post on fb",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1513318770
+  },
+  {
+    "id": "fff831f9-7efa-43c7-9868-0192b988921a",
+    "data": [
+      {
+        "text": "help me find a post on facebook",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1513318770
+  },
+  {
+    "id": "8efd3c1e-2d44-4481-a8ae-d20becd64a35",
+    "data": [
+      {
+        "text": "i want to search a photo on facebook",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1513318770
+  },
+  {
+    "id": "8cb87a27-489d-4cdc-9c88-2eb13cf89aa4",
+    "data": [
+      {
+        "text": "i want to search a post on facebook",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1513318770
+  },
+  {
+    "id": "27f6b183-bba4-443b-9f3d-a946dc671b7f",
+    "data": [
+      {
+        "text": "search photos with ",
+        "userDefined": false
+      },
+      {
+        "text": "tags",
+        "alias": "PeopleName",
+        "meta": "@PeopleName",
+        "userDefined": true
+      },
+      {
+        "text": " on facebook",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1513318770
+  },
+  {
+    "id": "4eeffda5-1540-4c02-a635-014d55991b92",
+    "data": [
+      {
+        "text": "search photos with ",
+        "userDefined": false
+      },
+      {
+        "text": "captions",
+        "alias": "PeopleName",
+        "meta": "@PeopleName",
+        "userDefined": true
+      },
+      {
+        "text": " on facebook",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1513318770
+  },
+  {
+    "id": "86b594ff-dcdf-4453-ab94-25ac20a4fc94",
+    "data": [
+      {
+        "text": "find photos with ",
+        "userDefined": false
+      },
+      {
+        "text": "name",
+        "alias": "PeopleName",
+        "meta": "@PeopleName",
+        "userDefined": false
+      },
+      {
+        "text": " on facebook",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1513318770
+  },
+  {
+    "id": "75463df6-bdd8-47c8-a2d0-93eff4877546",
+    "data": [
+      {
+        "text": "search post ",
+        "userDefined": false
+      },
+      {
+        "text": "name",
+        "alias": "PeopleName",
+        "meta": "@PeopleName",
+        "userDefined": false
+      },
+      {
+        "text": " on facbook",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1513318770
+  },
+  {
+    "id": "6a3dcf1d-742a-42eb-8643-4624278f511b",
+    "data": [
+      {
+        "text": "post on facebook",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1513318770
+  },
+  {
+    "id": "23a6e37a-76b6-4040-81ec-7d38cd3ab0a3",
+    "data": [
+      {
+        "text": "photo on facebook",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1513318770
+  },
+  {
+    "id": "f4652a38-dae5-498b-a44f-1b988b418cf5",
+    "data": [
+      {
+        "text": "search photo on facebook",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1513318770
+  },
+  {
+    "id": "f7b06e83-7ebf-45af-8e51-b875bba2cc40",
+    "data": [
+      {
+        "text": "Search a post on facebook",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1513318770
+  }
+]

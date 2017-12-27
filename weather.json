@@ -1,0 +1,83 @@
+{
+  "id": "63cc2186-8884-4eec-9bf2-c5f3cd3a8e83",
+  "name": "weather",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "weather",
+      "affectedContexts": [
+        {
+          "name": "weather",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
+      "parameters": [
+        {
+          "id": "34462902-c95d-4fad-8abf-adcab3763e5f",
+          "dataType": "@sys.date-time",
+          "name": "date-time",
+          "value": "$date-time",
+          "prompts": [],
+          "defaultValue": "",
+          "isList": false
+        },
+        {
+          "id": "49d1c0e0-c102-4664-b9dd-eb735b87f0be",
+          "required": false,
+          "dataType": "@sys.location",
+          "name": "address",
+          "value": "$address",
+          "prompts": [],
+          "defaultValue": "",
+          "isList": false
+        },
+        {
+          "id": "57041669-9e87-4234-82f7-e5c09bc4e1fd",
+          "dataType": "@unit-temperature",
+          "name": "unit",
+          "value": "$unit",
+          "prompts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 1,
+          "platform": "facebook",
+          "lang": "en",
+          "title": "$address",
+          "subtitle": "Google Weather",
+          "imageUrl": "https://cbssacramento.files.wordpress.com/2016/11/category_weather_500x500.png?w\u003d310\u0026h\u003d310\u0026crop\u003d1",
+          "buttons": [
+            {
+              "text": "Check $address Weather on Google",
+              "postback": "https://www.google.com/search?q\u003dweather+in+$address"
+            }
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "https://www.google.com/search?q\u003dweather+in+$address"
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "facebook": false
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "cortanaCommand": {
+    "navigateOrService": "NAVIGATE",
+    "target": ""
+  },
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1509295883,
+  "fallbackIntent": false,
+  "events": []
+}

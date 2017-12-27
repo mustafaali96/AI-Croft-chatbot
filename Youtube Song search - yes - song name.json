@@ -1,0 +1,62 @@
+{
+  "id": "2f1834a0-cb5a-418d-bba6-8249db24853f",
+  "parentId": "7636ca9c-7517-4114-bd4e-51ac1f4de8a8",
+  "rootParentId": "49ab3c93-3d48-42cc-b599-991c94e9da4e",
+  "name": "Youtube Song search - yes - song name",
+  "auto": true,
+  "contexts": [
+    "YoutubeSongsearch-yes-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "YoutubeSongsearch.YoutubeSongsearch-yes.YoutubeSongsearch-yes-custom",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "5dba72fb-e799-4f37-b1fb-0998f5099c6d",
+          "required": true,
+          "dataType": "@song",
+          "name": "song",
+          "value": "$song",
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "Name of song?"
+            }
+          ],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 1,
+          "platform": "facebook",
+          "lang": "en",
+          "title": "$song",
+          "subtitle": "Youtube",
+          "imageUrl": "https://cdn.vox-cdn.com/thumbor/SfyqZw6l_jidAYdkqYEis-Omdho\u003d/0x0:1680x1050/1200x675/filters:focal(706x391:974x659):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/56414327/YTLogo_old_new_animation.0.gif",
+          "buttons": [
+            {
+              "text": "$song",
+              "postback": "https://www.youtube.com/results?search_query\u003d$song"
+            }
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "https://www.youtube.com/results?search_query\u003d$song"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1509137486,
+  "fallbackIntent": false,
+  "events": []
+}

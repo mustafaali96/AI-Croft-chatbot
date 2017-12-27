@@ -1,0 +1,74 @@
+{
+  "id": "295c4ffe-17ed-4952-a6e3-0d690c9ce8b3",
+  "name": "SearchPeoples on Google",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "7b66e862-dfa5-49f4-825f-78a83305621f",
+          "required": true,
+          "dataType": "@PeopleName",
+          "name": "PeopleName",
+          "value": "$PeopleName",
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "Name of person you want to search on Google"
+            }
+          ],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 1,
+          "platform": "facebook",
+          "lang": "en",
+          "title": "$PeopleName",
+          "subtitle": "",
+          "imageUrl": "https://cdn2.mhpbooks.com/2016/02/google.jpg",
+          "buttons": [
+            {
+              "text": "Google Search",
+              "postback": "https://www.google.com/search?source\u003dhp\u0026ei\u003daRzyWev1NMaxabPMlbgJ\u0026q\u003d$PeopleName"
+            },
+            {
+              "text": "Wikipedia Search",
+              "postback": "https://en.wikipedia.org/w/index.php?title\u003dSpecial:Search\u0026search\u003d$PeopleName\u0026fulltext\u003d1\u0026profile\u003ddefault\u0026searchToken\u003d4uaco0zdwddutwb7scon2p3w3"
+            }
+          ]
+        },
+        {
+          "type": "link_out_chip",
+          "platform": "google",
+          "lang": "en",
+          "destinationName": "$PeopleName",
+          "url": "https://www.google.com/search?source\u003dhp\u0026ei\u003daRzyWev1NMaxabPMlbgJ\u0026q\u003d $PeopleName"
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Google search: https://www.google.com/search?source\u003dhp\u0026ei\u003daRzyWev1NMaxabPMlbgJ\u0026q\u003d$PeopleName"
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "facebook": false
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "cortanaCommand": {
+    "navigateOrService": "NAVIGATE",
+    "target": ""
+  },
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1509216209,
+  "fallbackIntent": false,
+  "events": []
+}

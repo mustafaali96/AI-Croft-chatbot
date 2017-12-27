@@ -1,0 +1,83 @@
+{
+  "id": "417013c3-da31-40f0-b90c-98775fedeb52",
+  "name": "SearchPost\u0026Photos on facebook",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "6dd7d3f7-b853-4548-b1e9-1c57a5d99c66",
+          "required": true,
+          "dataType": "@PeopleName",
+          "name": "PeopleName",
+          "value": "$PeopleName",
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "Enter the tags or caption you want to search for photo/post"
+            }
+          ],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 1,
+          "platform": "facebook",
+          "lang": "en",
+          "title": "$PeopleName",
+          "subtitle": "Facebook search",
+          "imageUrl": "http://ksassets.timeincuk.net/wp/uploads/sites/54/2015/07/facebook-01-1.jpeg",
+          "buttons": [
+            {
+              "text": "Show all result",
+              "postback": "https://www.facebook.com/search/top/?q\u003d $PeopleName"
+            },
+            {
+              "text": "Posts",
+              "postback": "https://www.facebook.com/search/posts/?q\u003d$PeopleName"
+            },
+            {
+              "text": "Photos",
+              "postback": "https://www.facebook.com/search/photos/?q\u003d$PeopleName"
+            }
+          ]
+        },
+        {
+          "type": 2,
+          "platform": "facebook",
+          "lang": "en",
+          "title": "You can also search",
+          "replies": [
+            "Apps",
+            "Events",
+            "Groups",
+            "Pages",
+            "Peoples",
+            "Places"
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "here is the link: \nhttps://www.facebook.com/search/top/?q\u003d $PeopleName"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "cortanaCommand": {
+    "navigateOrService": "NAVIGATE",
+    "target": ""
+  },
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1513318770,
+  "fallbackIntent": false,
+  "events": []
+}

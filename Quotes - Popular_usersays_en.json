@@ -1,0 +1,100 @@
+[
+  {
+    "id": "5eb04c77-0c83-43aa-8ab0-569cde9f6d63",
+    "data": [
+      {
+        "text": "Tell me some ",
+        "userDefined": false
+      },
+      {
+        "text": "popular quotes",
+        "alias": "Quotes",
+        "meta": "@Quotes",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "12bca512-2322-43ad-9547-14c8f54d8856",
+    "data": [
+      {
+        "text": "tell me ",
+        "userDefined": false
+      },
+      {
+        "text": "more",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "popular quotes",
+        "alias": "Quotes",
+        "meta": "@Quotes",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "751e3cf9-8cc5-4e0f-a647-23d0385edf4f",
+    "data": [
+      {
+        "text": "popular quotes",
+        "alias": "Quotes",
+        "meta": "@Quotes",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "26c9e502-9514-4551-8e82-e7091c1cba3f",
+    "data": [
+      {
+        "text": "Any ",
+        "userDefined": false
+      },
+      {
+        "text": "popular quote",
+        "alias": "Quotes",
+        "meta": "@Quotes",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "0b302f25-763e-43d7-a068-5a37858dcabb",
+    "data": [
+      {
+        "text": "Tell me ",
+        "userDefined": false
+      },
+      {
+        "text": "popular",
+        "alias": "Quotes",
+        "meta": "@Quotes",
+        "userDefined": true
+      },
+      {
+        "text": " quote",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

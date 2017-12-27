@@ -1,0 +1,59 @@
+{
+  "id": "a4796347-559e-4510-9268-66702c82f2b9",
+  "name": "Quotes - Romantic",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "afc4b84a-69b2-4611-b304-e801897d85ed",
+          "required": false,
+          "dataType": "@Quotes",
+          "name": "Quotes",
+          "value": "$Quotes",
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "Topic"
+            }
+          ],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": [
+            "No matter what has happened. No matter what you’ve done. No matter what you will do. I will always love you. I swear it. – C.J. Redwine",
+            "I wanted to tell you that wherever I am, whatever happens, I’ll always think of you, and the time we spent together, as my happiest time. I’d do it all over again, if I had the choice. No regrets. – Cynthia Hand",
+            "And in her smile I see something more beautiful than the stars. – Beth Revis",
+            "If you are not too long, I will wait here for you all my life. - Oscar Wilde",
+            "True love stories never have endings. - Richard Bach",
+            "I am catastrophically in love with you. - Cassandra Clare",
+            "I love you the way a drowning man loves air. And it would destroy me to have you just a little. - Rae Carson",
+            "It’s one thing to fall in love. It’s another to feel someone else fall in love with you, and to feel a responsibility toward that love. – David Levithan"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "facebook": false,
+        "google": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "cortanaCommand": {
+    "navigateOrService": "NAVIGATE",
+    "target": ""
+  },
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1508823503,
+  "fallbackIntent": false,
+  "events": []
+}

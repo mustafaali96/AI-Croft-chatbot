@@ -1,0 +1,168 @@
+[
+  {
+    "id": "67a061ff-45a9-4131-ba30-63d79be40130",
+    "data": [
+      {
+        "text": "Groups",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "d7af66fc-fff7-4fa4-a74c-a9e1e03dee6a",
+    "data": [
+      {
+        "text": "Events",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "314b2dee-c327-4107-af97-3cdddb1a9a45",
+    "data": [
+      {
+        "text": "Help me search a group on facebook",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1513316298
+  },
+  {
+    "id": "945296b4-9161-4866-9e41-a482866606c8",
+    "data": [
+      {
+        "text": "Help me find ",
+        "userDefined": false
+      },
+      {
+        "text": "an",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " event on facebook",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1513316298
+  },
+  {
+    "id": "3ced4ad8-3d60-4e67-a751-e6b971806381",
+    "data": [
+      {
+        "text": "search all the groups ",
+        "userDefined": false
+      },
+      {
+        "text": "name",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "name",
+        "alias": "PeopleName",
+        "meta": "@PeopleName",
+        "userDefined": false
+      },
+      {
+        "text": " on facebook",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1513316298
+  },
+  {
+    "id": "9bfd1974-efd6-41a8-a68d-23d91b7ef0a4",
+    "data": [
+      {
+        "text": "find facebook event ",
+        "userDefined": false
+      },
+      {
+        "text": "name",
+        "alias": "PeopleName",
+        "meta": "@PeopleName",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1513316298
+  },
+  {
+    "id": "8c00e1ba-d1cc-4a51-9c42-693937f0c62c",
+    "data": [
+      {
+        "text": "find facebook group ",
+        "userDefined": false
+      },
+      {
+        "text": "name",
+        "alias": "PeopleName",
+        "meta": "@PeopleName",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1513316298
+  },
+  {
+    "id": "52f5cde6-327a-40f4-b7e7-3b0f40022cc6",
+    "data": [
+      {
+        "text": "Search group  ",
+        "userDefined": false
+      },
+      {
+        "text": "name",
+        "alias": "PeopleName",
+        "meta": "@PeopleName",
+        "userDefined": true
+      },
+      {
+        "text": " on facebook",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1513316298
+  },
+  {
+    "id": "98b0bbb1-9cc3-47fe-bf54-91c3c53b07b0",
+    "data": [
+      {
+        "text": "Search an event ",
+        "userDefined": false
+      },
+      {
+        "text": "name",
+        "alias": "PeopleName",
+        "meta": "@PeopleName",
+        "userDefined": true
+      },
+      {
+        "text": " on facebook",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1513316298
+  }
+]

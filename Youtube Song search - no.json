@@ -1,0 +1,39 @@
+{
+  "id": "7bf14643-b54c-489f-a973-bf0ec7588930",
+  "parentId": "49ab3c93-3d48-42cc-b599-991c94e9da4e",
+  "rootParentId": "49ab3c93-3d48-42cc-b599-991c94e9da4e",
+  "name": "Youtube Song search - no",
+  "auto": true,
+  "contexts": [
+    "YoutubeSongsearch-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "YoutubeSongsearch.YoutubeSongsearch-no",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": [
+            "No big deal.",
+            "OK!",
+            "As you wish."
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "facebook": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1509135545,
+  "fallbackIntent": false,
+  "events": []
+}

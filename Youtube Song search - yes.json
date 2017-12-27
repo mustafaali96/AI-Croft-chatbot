@@ -1,0 +1,58 @@
+{
+  "id": "7636ca9c-7517-4114-bd4e-51ac1f4de8a8",
+  "parentId": "49ab3c93-3d48-42cc-b599-991c94e9da4e",
+  "rootParentId": "49ab3c93-3d48-42cc-b599-991c94e9da4e",
+  "name": "Youtube Song search - yes",
+  "auto": true,
+  "contexts": [
+    "YoutubeSongsearch-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "YoutubeSongsearch.YoutubeSongsearch-yes",
+      "affectedContexts": [
+        {
+          "name": "YoutubeSongsearch-yes-followup",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 2,
+          "platform": "facebook",
+          "lang": "en",
+          "title": "Or select from most listened songs",
+          "replies": [
+            "Best of You",
+            "Closer",
+            "Faded",
+            "Rap God",
+            "Love the Way You Lie",
+            "Shape of you",
+            "Despacito",
+            "Lose Yourself",
+            "Cold water"
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Name of song you want to search?"
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "facebook": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1509136974,
+  "fallbackIntent": false,
+  "events": []
+}
